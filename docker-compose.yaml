@@ -1,0 +1,13 @@
+services:
+  kafka:
+    build: ./docker/kafka
+    container_name: kafka
+    hostname: kafka
+    ports:
+      - "9092:9092"
+    working_dir: /opt/kafka/bin
+    command: ["tail", "-f", "/dev/null"]
+    environment:
+      TOPIC_NAME: printers-queue
+      PARTITIONS: 2
+      BOOTSTRAP_SERVER: localhost:9092
