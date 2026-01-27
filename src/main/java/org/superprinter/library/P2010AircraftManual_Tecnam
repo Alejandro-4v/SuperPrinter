@@ -1,0 +1,5176 @@
+Page 0 - 1
+Aircraft Flight Manual
+Doc. No. 2010/100
+Ed.2 Rev.3
+2018, April 3
+TECNAM P2010
+MANUFACTURER: COSTRUZIONI AERONAUTICHE TECNAM S.r.l.
+AIRCRAFT MODEL: P2010
+EASA TYPE CERTIFICATE NO: EASA.A.576 (DATED 2014, SEPTEMBER 26TH)
+SERIAL NUMBER: ……………...........................
+BUILD YEAR: ……….………............................
+REGISTRATION MARKINGS: …………….……..
+This manual is approved in accordance with 14 CFR 21.29 for US registered air-
+craft, and is approved by the Federal Aviation Administration.
+This Manual must be carried in the airplane at all times.
+The airplane has to be operated in compliance with procedures and limitations
+contained herein.
+Costruzioni Aeronautiche TECNAM srl
+Via Maiorise
+CAPUA (CE) – Italy
+Tel. +39 0823 99.75.38
+WEB: www.tecnam.com
+Page 0 - 2
+INDEX
+1. RECORD OF REVISIONS ............................................................... 3
+2. LIST OF EFFECTIVE PAGES .......................................................... 7
+3. FOREWORD ................................................................................... 8
+4. SECTIONS LIST ............................................................................ 9
+2nd Edition – Rev. 0
+Aircraft Flight Manual
+INDEX
+Page 0 - 3
+1. RECORD OF REVISIONS
+Any revision to the present Manual, except actual weighing data, is recorded: a
+Record of Revisions is provided at the front of this manual and the operator is ad-
+vised to make sure that the record is kept up-to-date.
+The Manual issue is identified by Edition and Revision codes reported on each
+page, lower right side.
+The revision code is numerical and consists of the number "0"; subsequent revi-
+sions are identified by the change of the code from "0" to "1" for the first revision
+to the basic publication, "2" for the second one, etc.
+Should be necessary to completely reissue a publication for contents and format
+changes, the Edition code will change to the next number (“2” for the second edi-
+tion, “3” for the third edition etc).
+Additions, deletions and revisions to existing text will be identified by a revision
+bar (black line) in the left-hand margin of the page, adjacent to the change.
+When technical changes cause expansion or deletion of text which results in un-
+changed text appearing on a different page, a revision bar will be placed in the
+right-hand margin adjacent to the page number of all affected pages providing no
+other revision bar appears on the page.
+These pages will be updated to the current regular revision date.
+NOTE: It is the responsibility of the owner to maintain this handbook in a current
+status when it is being used for operational purposes.
+2nd Edition, Rev. 0
+Aircraft Flight Manual
+RECORD OF REVISIONS
+Rev Revised
+page
+0 – 2-5 thru 16
+1
+9-3 5-13 thru 14
+2
+6-12 thru 13 9-3 0-1, 4, 7 3-4 3
+4-7 4-23 9-3 Page 0 - 4
+Description of
+Tecnam Approval EASA Approval
+Or Under DOA
+Revision
+DO OoA HDO
+Privileges
+New Edition D. Ronca C. Caruso M. Oliva
+Approved under the
+authority of DOA
+ref. EASA.21J.335
+(MOD2010/067.151030)
+Amended to add the wording
+“Approved” in order to better
+identify the pages approved ac-
+cording to EASA regulation
+D. Ronca C. Caruso M. Oliva
+Approved under the
+authority of DOA
+ref. EASA.21J.335
+(MOD2010/070.160118)
+Supplement List Index amended
+D. Ronca C. Caruso M. Oliva EASA approval
+N°10055692
+Add Supplement D04
+Amended cruise performance to
+add fuel consumption for differ-
+ent power setting
+Amended Equipment list
+D. Ronca C. Caruso M. Oliva
+Approved under the
+authority of DOA
+ref. EASA.21J.335
+(MOD2010/103.161026)
+Supplement List Index amended
+Add Supplement D08
+Cover, RoR and LOEP updated.
+Reference airspeeds table added.
+Airspeeds table revised.
+A. Sabino C. Caruso M. Oliva
+Approved under the
+authority of DOA
+ref. EASA.21J.335
+(MOD2010/131.180403)
+Glide Speed revised
+Supplements list updated.
+2nd Edition, Rev. 3
+Aircraft Flight Manual
+RECORD OF REVISIONS
+Page 0 - 5
+Tecnam Approval EASA Approval
+Rev Revised
+page
+Description of
+Or Under DOA
+Revision
+DO OoA HDO
+Privileges
+2nd Edition, Rev. 0
+Aircraft Flight Manual
+RECORD OF REVISIONS
+Page 0 - 6
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Aircraft Flight Manual
+Page 0 - 7
+2. LIST OF EFFECTIVE PAGES
+The List of Effective Pages (LOEP), applicable to manuals of every operator, lists all
+the basic AFM pages: each manual could contain either basic pages or one variant of
+these pages when the pages of some Supplements are embodied.
+Pages affected by the current revision are indicated by an asterisk (*) following the re-
+vision code.
+Should supplements be embodied in accordance with approved instructions, make refer-
+ence to the LOEP addressed on Supplements themselves.
+1st Edition, Rev 0 ..................... September 26, 2014
+1st Edition, Rev 1 ..................... April 8, 2015
+2nd Edition, Rev0 ..................... October 30, 2015
+2nd Edition, Rev1 ..................... January 18, 2016
+2nd Edition, Rev2 ..................... November 25, 2016
+2nd Edition, Rev3 ..................... April 3, 2018
+Section Pages Revision
+Section 0 2, 3, 5, 6, 8, 9, 10 Rev 0
+1, 4, 7 Rev 3
+Section 1 1 thru 16 Rev 0
+Section 2 1 thru 4 Rev 0
+5 thru 16 Rev 1
+Section 3 3, 5 thru 12, 14, 18, 20 thru 24, 26, 28, 30 Rev 0
+1, 2, ,4, 13, 15, 16, 17, 19, 25, 27, 29 Rev 3
+Section 4 1 thru 5, 8 thru 26 Rev 0
+7, 23 Rev 3
+Section 5 1 thru 12 Rev 0
+Section 5 13 thru 14 Rev 2
+Section 5 15 thru 17 Rev 0
+Section 6 1 thru 12 Rev 0
+Section 7 1 thru 38 Rev 0
+Section 8 1 thru 16 Rev 0
+Supplement List
+Section 9 1, 2, 4 Rev 0
+3 Rev 3
+Supplements LOEP: make reference to the Supplements Cover Pages
+2nd Edition, Rev. 3
+Aircraft Flight Manual
+LIST OF EFFECTIVE PAGES
+Page 0 - 8
+3. FOREWORD
+Section 1 supplies general information and it contains definitions, symbols explana-
+tions, acronyms and terminology used.
+Before using the airplane, you are recommended to read carefully this manual: a deep
+knowledge of airplane features and limitations will allow you for operating the airplane
+safely.
+For further information, please contact:
+COSTRUZIONI AERONAUTICHE TECNAM s.r.l.
+Via MAIORISE
+CAPUA (CE) - ITALY
+ +39 0823.99.75.38
+airworthiness@tecnam.com
+ www.tecnam.com
+2nd Edition, Rev. 0
+Aircraft Flight Manual
+FOREWORD
+Page 0 - 9
+4. SECTIONS LIST
+General (*) Section 1
+Limitations (**) Section 2
+Emergency Procedures (*) Section 3
+Normal Procedures (*) Section 4
+Performances (*) Section 5
+Weight and Balance (*) Section 6
+Airframe and Systems description (*) Section 7
+Airplane Care and Maintenance (*) Section 8
+Supplements (***) Section 9
+(*) non-approved Section
+(**) approved Section
+(***) partially approved Section - approved parts, if any, are reported in the supplements.
+2nd Edition, Rev. 0
+Aircraft Flight Manual
+SECTIONS LIST
+Page 0 - 10
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Aircraft Flight Manual
+Page 1 - 1
+SECTION 1 - GENERAL
+INDEX
+1. INTRODUCTION ............................................................................... 3
+2. CERTIFICATION BASIS .................................................................... 3
+3. WARNING – CAUTION – NOTE ......................................................... 3
+4. THREE-VIEW AND DIMENSIONS ..................................................... 4
+5. ENGINE ............................................................................................ 6
+6. PROPELLER...................................................................................... 6
+7. FLIGHT CONTROL SURFACES TRAVEL .......................................... 7
+8. SPECIFIC LOADINGS ....................................................................... 7
+9. ACRONYMS AND TERMINOLOGY .................................................... 9
+10. UNIT CONVERSION CHART ........................................................... 14
+11. LITRES / US GALLONS CONVERSION CHART .............................. 15
+2nd Edition, Rev.0
+Section 1 – General
+INDEX
+Page 1 - 2
+INTENTIONALLY LEFT BLANK
+Section 1 – General 2nd Edition, Rev.0
+Page 1 - 3
+1. INTRODUCTION
+The Aircraft Flight Manual has been prepared to provide pilots and instructors
+with information for the safe and efficient operation of this aeroplane.
+This manual also contains supplemental data supplied by the aeroplane manufac-
+turer.
+2. CERTIFICATION BASIS
+This type of aircraft has been approved by the European Aviation Safety Agency
+in accordance with CS-23 including Amendment 2 and the Type Certificate No.
+EASA.A.576 has been issued on 26th September 2014.
+Category of Airworthiness: Normal.
+Noise Certification Basis: EASA CS 36 Amendment 2.
+This type of aircraft has been validated also in the normal category of 14 CFR
+part 23 and part 36
+3. WARNING – CAUTION – NOTE
+Following definitions apply to warnings, cautions and notes used in the Aircraft
+Flight Manual.
+means that the non-observation of the corresponding procedure
+leads to an immediate or important degradation of the flight safety.
+WARNING
+CAUTION
+means that the non-observation of the corresponding procedure
+leads to a minor or to a more or less long term degradation of the
+flight safety
+NOTE
+Draws the attention to any special item not directly related to safety
+but which is important or unusual.
+.
+2nd Edition, Rev.0
+Section 1 – General
+INTRODUCTION
+Page 1 - 4
+4. THREE-VIEW AND DIMENSIONS
+Figure 1 – General views
+2nd Edition, Rev.0
+Section 1 – General
+THREE-VIEW AND DIMENSIONS
+Page 1 - 5
+Dimensions
+Overall dimensions
+Wing Span …..…………………………….. 10.30 m / 33.79 ft
+Overall Length ……………………………. 7.97 m / 26.15 ft
+Overall height ……………………………... 2.64 m / 8.66 ft
+Stabilator Span ……………………………. 3.35 m / 10.99 ft
+Wing
+Wing surface ..…………………………….. 13.9 m2 / 149.6 ft2
+Mean Geometric Chord ...………………… 1.349 m / 4.427 ft
+Dihedral …………………………………... 1°
+Aspect ratio ………………………………. 7.63
+Fuselage
+Cabin width ..…………………………….. 1.14 m / 3.74 ft
+Cabin length..…………………………….. 2.3 m / 7.54 ft
+Landing Gear
+Wheels Track …………………………….. 2.1 m / 6.89 ft
+Wheels base ……………………………… 2.15 m / 7.05 ft
+Main Gear Tire …………………………… 6.00-6
+Nose Gear Tire …………………………… 5.00-5
+2nd Edition, Rev.0
+Section 1 – General
+THREE-VIEW AND DIMENSIONS
+Page 1 - 6
+5. ENGINE
+Manufacturer …………………………… Lycoming Engines
+Model …………………………………... IO-360-M1A
+Type Certificate ………………………... EASA TCDS no. IM.E.032
+Engine type …………………………….. Fuel injected (IO), direct drive, four cylinder
+horizontally opposed, air cooled with down
+exhaust outlets.
+Maximum power …….
+Maximum continuous power …………...
+134.0 kW (180 hp) @ 2700 rpm
+134.0 kW (180 hp) @ 2700 rpm
+6. PROPELLER
+Manufacturer ………………………….. MT Propeller
+Model …………………………………. MT 188 R 145 – 4G
+Type Certificate ……………………….. EASA TCDS no. P.006
+Blades/hub …………………………….. 2 wood/composite blades – aluminium hub
+Diameter ………………………………. 1880 mm (74 in) (no reduction allowed)
+Type …………………………………… Fixed pitch
+Section 1 – General
+GENERAL FEATURES
+2nd Edition, Rev.0
+TERMINOLOGYFLI
+GHT CONTROL
+SURFACES
+TRAVEL
+Page 1 - 7
+7. FLIGHT CONTROL SURFACES TRAVEL
+Ailerons Up 19°; Down 14 ° ( 2°)
+Stabilator* Up 6°; Down 17° ( 2°)
+Stabilator trim tab Up 3°; Down 15° ( 1°)
+Rudder RH 25°; LH 25° ( 2°)
+Rudder trim tab RH 20°; LH 20° ( 2°)
+Flaps 0°; 20°; 40° ( 1°)
+*degrees are measured from the Stabilator Leading Edge.
+8. SPECIFIC LOADINGS
+MTOW 1160 kg (2557 lb)
+Wing Loading 83.45 kg/m2 (17.09 lb/ft2)
+Power Loading 6.44 kg/hp (14.21 lb/hp)
+Section 1 – General
+GENERAL FEATURES
+2nd Edition, Rev.0
+TERMINOLOGYSP
+ECIFIC LOADINGS
+Page 1 - 8
+INTENTIONALLY LEFT BLANK
+Section 1 – General 2nd Edition, Rev.0
+TERMINOLOGYSP
+ECIFIC LOADINGS
+Page 1 - 9
+9. ACRONYMS AND TERMINOLOGY
+KCAS KIAS KTAS VA VFE VNO VNE VO Calibrated Airspeed is the indicated airspeed expressed in knots,
+corrected taking into account the errors related to the instrument
+itself and its installation.
+Indicated Airspeed is the speed shown on the airspeed indicator
+and it is expressed in knots.
+True Airspeed is the KCAS airspeed corrected taking into ac-
+count altitude and temperature.
+Design Manoeuvring speed is the speed above the which it is not
+allowed to make full or abrupt control movement.
+Maximum Flap Extended speed is the highest speed permissible
+with flaps extended.
+Maximum Structural Cruising Speed is the speed that should not
+be exceeded, except in smooth air and only with caution.
+Never Exceed Speed is the speed limit that may not be exceeded
+at any time.
+Operating Manoeuvring speed is the speed above the which it is
+not allowed to make full or abrupt control movement
+VS Stall Speed.
+VS0 VS1 VX Stall Speed in landing configuration (flaps and landing gear ex-
+tended).
+Stall speed in clean configuration (flaps 0°).
+Best Angle-of-Climb Speed is the speed which results in the
+greatest gain of altitude with respect to a given horizontal dis-
+tance.
+VY VR VLOF Vobs Best Rate-of-Climb Speed is the speed which results in the great-
+est gain in altitude in a given time.
+Rotation speed: is the speed at which the aircraft rotates about
+the pitch axis during takeoff
+Lift off speed: is the speed at which the aircraft generally lifts off
+from the ground.
+Obstacle speed: is the speed at which the aircraft flies over a 15m
+obstacle during takeoff or landing.
+2nd Edition, Rev.0
+Section 1 – General
+ACRONYMS AND TERMINOLOGY
+Page 1 - 10
+Meteorological terminology
+ISA QFE QNH OAT TS HP International Standard Atmosphere: is the air atmospheric standard
+condition at sea level, at 15 °C (59 °F) and at 1013.25 hPa
+(29.92 inHg).
+Official atmospheric pressure at airport level: it indicates the air-
+craft absolute altitude with respect to the official airport level.
+Theoretical atmospheric pressure at sea level: is the atmospheric
+pressure reported at the medium sea level, through the standard air
+pressure-altitude relationship, starting from the airport QFE.
+Outside Air Temperature is the air static temperature expressed in
+degrees Celsius (°C).
+Standard Temperature is 15 °C at sea level pressure altitude and
+decreased by 2 °C for each 1000 ft of altitude.
+Pressure Altitude is the altitude read from an altimeter when the
+barometric subscale has been set to 1013 mb.
+2nd Edition, Rev.0
+Section 1 – General
+ACRONYMS AND TERMINOLOGY
+Page 1 - 11
+Aircraft performance and flight planning terminology
+Crosswind Velocity is the velocity of the crosswind component
+for the which adequate control of the air-
+plane during takeoff and landing is assured.
+Usable fuel Unusable fuel is the fuel available for flight planning.
+is the quantity of fuel that cannot be safely
+used in flight.
+G is the acceleration of gravity.
+TOR is the takeoff distance measured from actual
+start to MLG wheel liftoff point.
+TOD is total takeoff distance measured from start
+to 15m obstacle clearing.
+GR is the distance measured during landing
+from actual touchdown to stop point.
+LD is the distance measured during landing,
+from 15m obstacle clearing to actual stop.
+S/R is the specific range, that is the distance (in
+nautical miles) which can be expected at a
+specific power setting and/or flight configu-
+ration per kilo of fuel used.
+2nd Edition, Rev.0
+Section 1 – General
+ACRONYMS AND TERMINOLOGY
+Page 1 - 12
+Weight and balance terminology
+Datum Arm Moment C.G. Standard Empty Weight Basic Empty Weight Useful Load Maximum Takeoff Weight Maximum Landing Weight “Reference datum” is an imaginary vertical
+plane from which all horizontal distances are
+measured for balance purposes.
+is the horizontal distance of an item meas-
+ured from the reference datum.
+is the product of the weight of an item mul-
+tiplied by its arm.
+Center of Gravity is the point at which the
+airplane, or equipment, would balance if
+suspended. Its distance from the reference
+datum is found by dividing the total moment
+by the total weight of the aircraft.
+is the weight of the aircraft with engine flu-
+ids and oil at operating levels.
+is the standard empty weight to which it is
+added the optional equipment weight.
+is the difference between maximum takeoff
+weight and the basic empty weight.
+is the maximum weight approved to perform
+the takeoff.
+is the maximum weight approved for the
+landing touchdown (for P2010 it is equiva-
+lent to the Maximum Takeoff Weight).
+2nd Edition, Rev.0
+Section 1 – General
+ACRONYMS AND TERMINOLOGY
+Page 1 - 13
+INTENTIONALLY LEFT BLANK
+Section 1 – General 2nd Edition, Rev.0
+Page 1 - 14
+10. UNIT CONVERSION CHART
+MOLTIPLYING BY  YIELDS
+TEMPERATURE
+5
+Fahrenheit [°F]  
+9 32  F Celsius [°C]
+
+Celsius [°C] 9
+  
+32
+C Fahrenheit [°F]
+5
+  
+FORCES
+Kilograms [kg] 2.205 Pounds [lbs]
+Pounds [lbs] 0.4536 Kilograms [kg]
+SPEED
+Meters per second [m/s] 196.86 Feet per minute [ft/min]
+Feet per minute [ft/min] 0.00508 Meters per sec-
+[m/s]
+ond
+Knots [kts] 1.853 Kilometres / hour [km/h]
+Kilometres / hour [km/h] 0.5396 Knots [kts]
+PRESSURE
+Atmosphere [atm] 14.7 Pounds / sq. in [psi]
+Pounds / sq. in [psi] 0.068 Atmosphere [atm]
+LENGTH
+Kilometres [km] 0.5396 Nautical miles [nm]
+Nautical miles [nm] 1.853 Kilometres [km]
+Meters [m] 3.281 Feet [ft]
+Feet [ft] 0.3048 Meters [m]
+Centimetres [cm] 0.3937 Inches [in]
+Inches [in] 2.540 Centimetres [cm]
+VOLUME
+Litres [l] 0.2642 U.S. Gallons [US Gal]
+U.S. Gallons [US Gal] 3.785 Litres [l]
+AREA
+Square meters [m2] 10.76 Square feet [sq ft]
+Square feet [sq ft] 0.0929 Square meters [m2]
+2nd Edition, Rev.0
+Section 1 – General
+UNIT CONVERSION CHART
+Page 1 - 15
+11. LITRES / US GALLONS CONVERSION CHART
+Litres US Gallons US Gallons Litres
+5 1.3 1 3.8
+10 2.6 2 7.6
+15 4.0 3 11.4
+20 5.3 4 15.1
+25 6.6 6 22.7
+30 7.9 8 30.3
+35 9.2 10 37.9
+40 10.6 12 45.4
+45 11.9 14 53.0
+50 13.2 16 60.6
+60 15.9 18 68.1
+70 18.5 20 75.7
+80 21.1 22 83.3
+90 23.8 24 90.9
+100 26.4 26 98.4
+110 29.1 28 106.0
+120 31.7 30 113.6
+130 34.3 32 121.1
+140 37.7 34 128.7
+150 39.6 36 136.3
+160 42.3 38 143.8
+170 44.9 40 151.4
+180 47.6 42 159
+190 50.2 45 170.3
+200 52.8 47 177.9
+210 55.5 50 189.3
+220 58.1 55 208.2
+230 60.7 60 227.1
+240 63.4 63 238.4
+2nd Edition, Rev.0
+Section 1 – General
+LITRES / US GALLONS CONVERSION CHART
+Page 1 - 16
+INTENTIONALLY LEFT BLANK
+Section 1 – General 2nd Edition, Rev.0
+Page 2 - 1
+SECTION 2 – LIMITATIONS
+INDEX
+1. INTRODUCTION ........................................................................... 3
+2. AIRSPEED LIMITATIONS .............................................................. 5
+3. AIRSPEED INDICATOR MARKINGS .............................................. 6
+4. POWERPLANT LIMITATIONS ....................................................... 7
+5. FUEL ............................................................................................. 8
+6. LUBRICANT .................................................................................. 8
+7. PAINT ........................................................................................... 9
+8. PROPELLER .................................................................................. 9
+9. MAXIMUM OPERATING ALTITUDE .............................................. 9
+10. AMBIENT TEMPERATURE ............................................................ 9
+11. POWERPLANT INSTRUMENT MARKINGS .................................. 10
+12. OTHER INSTRUMENT MARKINGS ............................................. 10
+13. WEIGHTS .................................................................................... 11
+14. CENTER OF GRAVITY RANGE .................................................... 11
+15. FLIGHT CREW ............................................................................ 11
+16. APPROVED MANEUVERS ........................................................... 12
+16.1. Types of Surface ............................................................................. 12
+17. MANEUVERS LOAD FACTOR LIMITS ......................................... 12
+18. KINDS OF OPERATION EQUIPMENT LIST (KOEL) ..................... 13
+19. LIMITATIONS PLACARDS........................................................... 15
+19.1. Speed limitations ............................................................................ 15
+19.2. Operating limitations ...................................................................... 15
+19.3. No Smoking placard ........................................................................ 15
+19.4. Baggage Compartment placard ...................................................... 16
+2nd Edition, Rev.0
+Section 2 – Limitations
+INDEX
+Page 2 - 2
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev.0
+Section 2 – Limitations
+Page 2 - 3
+1. INTRODUCTION
+Section 2 includes operating limitations, instrument markings and basic placards
+necessary for safe operation of the aeroplane, its engine and standard systems and
+equipment.
+2nd Edition, Rev.0
+Section 2 – Limitations
+INTRODUCTION
+Page 2 - 4
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev.0
+Section 2 – Limitations
+Page 2 - 5
+2. AIRSPEED LIMITATIONS
+The following table addresses the airspeed limitations and their operational signifi-
+cance:
+AIRSPEED KIAS KCAS REMARKS
+VNE Never exceed speed 166 164 Do not exceed this speed in
+any operation.
+VNO
+Maximum Structural Cruising
+Speed
+132 130 Do not exceed this speed
+except in smooth air, and
+only with caution.
+VA Design Manoeuvring speed 120 119 Operating Manoeuvring speed
+VO
+Do not make full or abrupt
+control movement above
+this speed, because under
+certain conditions the air-
+craft may be overstressed
+by full control movement.
+VFE Maximum flaps extended speed 91 92 Do not exceed this speed
+for indicated flaps setting.
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+AIRSPEED LIMITATIONS
+Page 2 - 6
+3. AIRSPEED INDICATOR MARKINGS
+Airspeed indicator markings and their colour code are explained in the following
+table.
+MARKING KIAS EXPLANATION
+White arc 50 – 91 Positive Flap Operating Range (lower limit
+is VSO, at specified maximum weight and
+upper limit is the maximum speed permissi-
+ble with landing flaps extension).
+Green arc 59– 132 Normal Operating Range (lower limit is VS1
+at specified maximum weight and most for-
+ward c.g. with flaps retracted and upper limit
+is maximum structural speed VNO).
+Yellow arc 132 – 166 Manoeuvres must be conducted with caution
+and only in smooth air.
+Red line 166 Maximum speed for all operations.
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+AIRSPEED INDICATOR MARKINGS
+Page 2 - 7
+4. POWERPLANT LIMITATIONS
+Following table reports the operating limitations the installed engine:
+ENGINE MANUFACTURER: Lycoming Engines
+ENGINE MODEL: IO-360-M1A
+MAXIMUM POWER:
+Max Power
+Max rpm.
+(hp)
+Prop. rpm
+Max. T.O. 180 2700
+Max. Cont. 180 2700
+Temperatures:
+Max CHT ……………………………………….. 500° F (260° C)
+Max Oil …………………………………………. 245° F (118° C)
+Oil Pressure:
+Minimum Idling ………………………………… 25 psi (1.7 Bar)
+Minimum Normal ………………………………. 55 psi (3.8 Bar)
+Maximum Normal ……………………………… 95 psi (6.5 Bar)
+Starting, Warm-up, taxi and take-off (Max) …… 115 psi (7.9 Bar)
+Fuel pressure:
+- At Inlet to fuel injector:
+Minimum .............................................................. Maximum ............................................................. 14 psi (0.96 Bar)
+35 psi (2.41 Bar)
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+POWERPLANT LIMITATIONS
+Page 2 - 8
+5. FUEL
+2 TANKS: MAXIMUM CAPACITY: MAXIMUM USABLE FUEL: APPROVED FUEL: 120 litres each one (31.7 US gallons)
+240 litres (63.4 US gallons)
+231 litres (61 US gallons)
+AVGAS Grade 91/96 or 100 LL (ASTM D910)
+For additional information, refer to Lycoming Service Instruction No. 1070, latest issue.
+6. LUBRICANT
+Recommended Grade Oil:
+Average Ambient
+Temperature
+MIL-L-6082B or
+SAEJ1966 Spec.
+Mineral Grades
+MIL-L-22851 or
+SAEJ1899 Spec.
+Ashless Dispersant Grades
+All Temperatures
+Above 80°F
+Above 60°F
+30°F to 90°F
+0°F to 70°F
+Below 10°F
+----
+SAE60
+SAE50
+SAE40
+SAE30
+SAE20
+SAE15W50 or SAE20W-50
+SAE60
+SAE40 or SAE50
+SAE40
+SAE40, SAE30, SAE20W40
+SAE30 or SAE20W30
+For additional info, refer to “(L)IO-360-M1A Operation and Installation Manual”,
+latest issue, “Operating instruction” Section.
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+FUEL & LUBRIFICANT
+Page 2 - 9
+7. PAINT
+To ensure that the temperature of the composite structure does not exceed limits,
+the outer surface of the aeroplane must be painted with white paint, except for areas
+of registration marks, placards, and ornament.
+Refer to Aircraft Maintenance Manual (AMM), ATA Chapter 4 and 51, for specific
+paint requirements.
+8. PROPELLER
+MANUFACTURER: .…….. MT Propeller
+MODEL: …………….……. TYPE: .……………….…… MT 188 R 145 – 4G
+wood/composite 2-blade, fixed pitch
+DIAMETER: ……………... 1880 mm (74 in) (no reduction is permitted)
+9. MAXIMUM OPERATING ALTITUDE
+Maximum operating altitude is 12000 ft (3658 m) MSL.
+CAUTION
+At altitudes above 10000 ft (3048 m) up to and including 12000 ft
+(3658 m), flight crew is recommended to use supplemental oxygen.
+10. AMBIENT TEMPERATURE
+Ambient temperature: from -25 °C (-13 °F) to +50 °C (122 °F).
+Flight in expected and/or known icing conditions is forbidden.
+WARNING
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+PAINT, PROPELLER, MAX ALTITUDE AND OAT
+Page 2 - 10
+11. POWERPLANT INSTRUMENT MARKINGS
+Powerplant instrument markings and their colour code significance are shown below:
+RED ARC
+WHITE ARC
+GREEN ARC
+YELLOW ARC
+RED ARC
+INSTRUMENT
+Minimum
+Advisory
+Safe
+Caution
+Maximum
+PROPELLER RPM / / OIL TEMP. °F / / CHT °F / 435 (line) EGT °F OIL PRESS psi FUEL PRESS psi limit
+/ 14-35 operation
+limit
+950-2700 0-950 2700-2800
+140-245 0 - 140 245 - 255
+150-475
+0 – 150
+475-500
+500-510
+/ 1000-1500 / 1375 (line) 1500-1550
+0-25 / 55-95
+25 - 55
+95-115
+115 - 125
+0-14 / 35 - 40
+litres 0
+0-115
+FUEL QTY
+gal /
+0 0-30,4
+/ /
+l/hr
+0-75
+FUEL FLOW
+/
+/ / /
+gal/hr 0-20
+12. OTHER INSTRUMENT MARKINGS
+RED ARC
+GREEN ARC
+YELLOW ARC
+RED ARC
+INSTRUMENT
+Minimum limit
+Safe operation
+Caution
+Maximum limit
+Voltmeter 20-21 Volt 24–30 Volt 21–24 Volt 30-31 Volt
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+POWERPLANT AND OTHER INSTRUMENT MARKINGS
+Page 2 - 11
+13. WEIGHTS
+Condition Weight
+Maximum takeoff weight 1160 kg 2557 lb
+Maximum landing weight 1160 kg 2557 lb
+Maximum baggage weight 40 kg 88 lb
+Baggage Compartment Weight
+Maximum weight 40 kg 88 lb
+Maximum specific pressure 0.72 kg/dm2 14.9 lb/ft2
+NOTE
+Refer to Section 6 for proper aircraft and baggage loading.
+14. CENTER OF GRAVITY RANGE
+Datum Levelling Forward limit Aft limit Vertical plane tangent to the wing leading edge (the aircraft
+must be levelled in the longitudinal plane)
+Refer to the seat track supporting beams (see procedure in
+Section 6)
+0.262 m (10.3 in) (19% MAC) aft of datum for all weights
+0.440 m (17.3 in) (32% MAC) aft of datum for all weights
+WARNING
+The pilot is responsible for ensuring that the airplane is
+properly loaded. Refer to Section 6 for appropriate instruc-
+tions.
+15. FLIGHT CREW
+Minimum crew: 1 pilot
+Maximum seating configuration: 4 people (including the pilot)
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+WEIGHTS
+Page 2 - 12
+16. APPROVED MANEUVERS
+The aircraft is certified in Normal Category in accordance with EASA CS-23and FAA 14
+CFR part 23 regulations.
+Non aerobatic operations include:
+ Any manoeuvre pertaining to “normal” flight
+ Stalls (except whip stalls)
+ Lazy eights
+ Turns in which the angle of bank is not more than 60°
+ Chandelle
+WARNING
+Acrobatic manoeuvres, including spins and turns with angle of bank of
+more than 60°, are not approved for such a category.
+In addition Intentional shutdown of engine in flight is forbidden.
+WARNING
+Limit load factor could be exceeded by moving flight controls to maxi-
+mum deflection at a speed above VA=VO (120 KIAS, Manoeuvring Speed).
+WARNING
+Flight in expected and/or known icing conditions, in proximity of storms
+or in severe turbulence is forbidden.
+16.1. TYPES OF SURFACE
+This aircraft may operate on both paved and grass surfaces, refer to Section 5 for
+impacts on performances.
+17. MANEUVERS LOAD FACTOR LIMITS
+Maneuver load factors limits are as follows:
+Positive Negative
++ 3.8 g - 1.52 g
+Maneuver load factors limits with flaps extended are as follows:
+Positive
+Negative
++ 2 g
+0 g
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+MANEUVERS
+Page 2 - 13
+18. KINDS OF OPERATION EQUIPMENT LIST (KOEL)
+This paragraph reports the KOEL table, concerning the equipment list required on
+board under CS-23 and Far-23 regulations to allow flight operations in VFR
+Day/Night and IFR Day/Night.
+Flight in VFR Day/Night and IFR is permitted only if the prescribed equipment is
+installed and operational.
+Additional equipment, or a different equipment list, for the intended operation may
+be required by national operational requirements and also depends on the airspace
+classification and route to be flown.
+The owner is responsible for fulfilling these requirements.
+Equipment VFR Day VFR Night IFR Day IFR Night Note
+External Power
+Circuit Breakers ● ● ● ● As Required
+Battery ● ● ● ●
+Safety Equipment & Furnishing
+First Aid kit ● ● ● ●
+Fire extinguisher ● ● ● ●
+ELT ● ● ● ●
+Torch (with spare batteries) ● ●
+Ice Protection
+Pitot heating system ● ● ●
+Landing Gear
+Wheel pants Removable
+Lights
+Landing/taxi lights ● ● ● ●
+Strobe lights ● ● ● ●
+NAV lights ● ● ● ●
+Cabin lights ● ●
+Instrument lights ● ●
+Emergency light ● ●
+Dimming Devices ● ●
+Day/Night switch ● ●
+COM/Navigation/Engine parameters
+Magnetic compass ● ● ● ●
+GARMIN G1000 Suite ● ● ● ●
+MD 302 suite ● ● ●
+Pitot system ● ● ● ●
+Clock ● ● ● ●
+Flight Controls
+Pitch trim indicator ● ● ● ●
+Flap System ● ● ● ●
+Flaps position lights ● ● ● ●
+Rudder trim system ● ● ● ● only for VFR operations,
+rudder trim system may be
+inoperative provided the trim
+tab is fixed in the streamlined
+position and the system is
+electrically disabled
+Stall warning system ● ● ● ●
+VFR Day VFR Night IFR Day IFR Night
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+KOEL
+Page 2 - 14
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+Page 2 - 15
+19. LIMITATIONS PLACARDS
+Hereinafter limitation placards, related to the operating limitations, are placed in
+plain view on the pilot.
+19.1. SPEED LIMITATIONS
+On the left side instrument panel, above on the left, it is placed the following plac-
+ard reporting the speed limitations:
+19.2. OPERATING LIMITATIONS
+On the central side of the instrument panel, the following placard is placed remind-
+ing the observance of aircraft operating limitations according to installed equipment
+configuration, see KOEL paragraph 18.
+19.3. NO SMOKING PLACARD
+On the right hand side of the instrument panel the following placard is placed re-
+minding the observance for “no smoking”:
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+LIMITATIONS PLACARDS
+Page 2 - 16
+19.4. BAGGAGE COMPARTMENT PLACARD
+Behind the baggage compartment door the following placard is placed:
+2nd Edition, Rev.1
+Approved
+Section 2 – Limitations
+LIMITATIONS PLACARDS
+Page 3 - 1
+SECTION 3 – EMERGENCY PROCEDURES
+INDEX
+1. Introduction ..................................................................................... 3
+2. 1.1. Reference Airspeeds for Emergency Procedures .................. 4
+Failures indicated on the annunciation window ............................ 5
+2.1. Alternator failure ..................................................................... 5
+3. 2.2. Pitot heating system failure ................................................... 6
+G1000 System Failures ................................................................... 7
+3.1. Loss of information displayed ................................................ 7
+3.2. Loss of airspeed information .................................................. 7
+3.3. Loss of attitude information ................................................... 8
+3.4. Loss of altitude information ................................................... 8
+3.5. Loss of vertical speed information ......................................... 9
+3.6. Loss of heading information ................................................... 9
+3.7. Display failure ........................................................................ 10
+4. Engine securing ............................................................................. 11
+5. Aircraft evacuation ........................................................................ 11
+6. Engine failures ............................................................................... 13
+6.1. Engine failure during takeoff run .......................................... 13
+6.2. Engine failure after Take-off ................................................. 13
+6.3. Propeller overspeed .............................................................. 14
+6.4. Irregular rpm .......................................................................... 14
+6.5. CHT limit exceedance ........................................................... 15
+6.6. Oil temperature limit exceedance ........................................ 15
+6.7. Oil pressure limits exceedance ............................................ 16
+6.8. Low fuel pressure .................................................................. 17
+6.9. High fuel pressure ................................................................. 17
+6.10. Defective engine controls ................................................... 18
+7. Inflight engine restart ................................................................... 19
+7.1. Propeller windmilling ............................................................ 19
+8. Smoke and fire ............................................................................... 21
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+INDEX
+Page 3 - 2
+8.1. Engine fire on the ground ..................................................... 21
+8.2. Engine fire during takeoff ..................................................... 21
+8.3. Engine fire in flight ................................................................ 21
+8.4. Electrical smoke in cabin on the ground ............................. 22
+8.5. Electrical smoke in cabin during flight ................................ 22
+9. Recovery from unintentional spin ................................................. 23
+10. Other emergencies ........................................................................ 25
+10.1. Loss of Essential Bus .......................................................... 25
+10.2. Loss of Main Bus ................................................................. 25
+10.3. Electrical system overall failure ......................................... 26
+10.4. Static port failure ................................................................ 26
+10.5. Unintentional flight into icing conditions ........................... 27
+10.6. Flaps control failure ............................................................ 27
+10.7. Electrical Rudder Trim control failure ................................ 28
+11. Landing emergencies .................................................................... 29
+11.1. Forced landing without engine power ................................ 29
+11.2. Power-on forced landing ..................................................... 29
+11.3. Landing with nose landing gear tire deflated .................... 30
+11.4. Landing with a main landing gear tire deflated ................. 30
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+INDEX
+Page 3 - 3
+1. INTRODUCTION
+Section 3 includes checklists and detailed procedures for coping with various
+types of emergency conditions that could arise.
+Before operating the aircraft, the pilot should become thoroughly familiar with
+the present manual and, in particular, with the present Section. Further, a contin-
+ued and appropriate training should be provided.
+Two types of emergency procedures are hereby given:
+a. “Bold faces” which must be known by heart and executed in the correct and com-
+plete sequence, as soon as possible as the failure is detected and recognized;
+These procedures characters are boxed and highlighted, as shown below:
+BEFORE ROTATION: ABORT TAKE OFF
+1. Throttle IDLE
+2. Rudder Keep heading control
+3. - -
+4. - -
+b. Other procedures which should be well theoretically know and mastered, but that are
+not time critical and can be executed entering and following step by step the AFM
+appropriate checklist.
+In case of emergency the pilot should acts as follows:
+1. Maintain aircraft control
+2. Analyse the situation
+3. Apply the pertinent procedure
+4. Inform the Air Traffic Control if time and conditions permit
+The following definitions apply:
+Land as soon as possible: land without delay at the nearest
+suitable area at which a safe approach and landing is as-
+sured.
+Land as soon as practical: land at the nearest approved
+landing area where suitable repairs can be made.
+NOTE
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+INTRODUCTION
+Page 3 - 4
+1.1. REFERENCE AIRSPEEDS FOR EMERGENCY PROCEDURES
+Best glide speed (VGLIDE) 85 KIAS
+No-flaps Approach Speed 80 KIAS
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+Page 3 - 5
+2. FAILURES INDICATED ON THE ANNUNCIATION WINDOW
+The annunciator window is integrated in the GARMIN G1000. The colours are
+as follows:
+GREEN: to indicate that pertinent device is turned ON
+AMBER: to indicate no-hazard situations which have to be considered and
+which require a proper crew action
+RED: to indicate emergency conditions
+2.1. ALTERNATOR FAILURE
+Annunciation window Alert window
+ALT FAIL Alternator failure
+If ALT FAIL caution is ON:
+1. Circuit breaker(s)……………………... Check
+2. Generator SWITCH………………...… OFF
+3. Generator SWITCH…………………... ON
+If ALT FAIL CAUTION REMAINS on:
+4. Generator SWITCH………………...… OFF
+NOTE
+A fully charged battery shall supply electrical power for at least 30
+minutes.
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+ALTERNATOR FAILURE
+Page 3 - 6
+2.2. PITOT HEATING SYSTEM FAILURE
+Annunciation window Alert window
+PITOT HEAT ON Pitot heat on
+PITOT HEAT Pitot heat
+When the Pitot Heating system is activated, the green PITOT HEAT ON advi-
+sory light turns on and the amber PITOT HEAT caution light turns OFF, indi-
+cating that the Pitot Heating system is functioning properly.
+If the amber PITOT HEAT caution light is ON when the green PITOT HEAT
+ON light is on, then the Pitot Heating system is not functioning properly.
+In this case apply following procedure:
+1. Pitot heat switch ………………………………… OFF
+2. Pitot heat circuit breaker …….……………… CHECK IN
+3. Pitot heat switch ………………………………… ON
+4. PITOT HEAT caution light ………………….. CHECK
+NOTE
+if the amber light stays ON, avoid visible moisture and OATs below
+10° C.
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+PITOT HEATING SYSTEM FAILURE
+Page 3 - 7
+3. G1000 SYSTEM FAILURES
+3.1. LOSS OF INFORMATION DISPLAYED
+When a LRU or a LRU function fails, a large red ‘X’ is typically displayed on the
+display field associated with the failed data.
+NOTE
+In most of cases, the red “X” annunciation is accompanied by a
+message advisory alert issuing a flashing ADVISORY Softkey
+annunciation which, once selected, acknowledges the presence
+of the message advisory alert and displays the alert text message
+in the Alerts Window.
+3.2. LOSS OF AIRSPEED INFORMATION
+AIRSPEED FAIL
+(RED X ON DISPLAY FIELD)
+Display system is not receiving airspeed input
+from Air Data Computer.
+INSTRUCTION: revert to standby instrument
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+AVIONIC SUITE FAILURES
+0
+Page 3 - 8
+3.3. LOSS OF ATTITUDE INFORMATION
+ATTITUDE FAIL
+(RED X ON DISPLAY FIELD)
+Display system is not receiving attitude information
+from AHRS.
+INSTRUCTION: revert to standby instrument
+3.4. LOSS OF ALTITUDE INFORMATION
+ALTITUDE FAIL
+(RED X ON DISPLAY FIELD)
+Display system is not receiving altitude input
+from Air Data Computer.
+INSTRUCTION: revert to standby instrument
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+AVIONIC SUITE FAILURES
+0
+Page 3 - 9
+3.5. LOSS OF VERTICAL SPEED INFORMATION
+VERT SPEED FAIL
+(RED X ON DISPLAY FIELD)
+Display system is not receiving vertical speed input
+from Air Data Computer.
+INSTRUCTION: determine vertical speed on the basis of altitude information
+3.6. LOSS OF HEADING INFORMATION
+HDG
+(RED X ON DISPLAY FIELD)
+Display system is not receiving
+valid heading input from AHRS.
+INSTRUCTION: revert to magnetic compass
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+AVIONIC SUITE FAILURES
+0
+Page 3 - 10
+3.7. DISPLAY FAILURE
+In the event of a display failure, the G1000 System automatically switches to re-
+versionary (backup) mode. In reversionary mode, all important flight information
+is presented on the remaining display in the same format as in normal operating
+mode. The change to backup path is completely automated for all LRUs and no pi-
+lot action is required.
+if the system fails to detect a display problem
+1. REVERSIONARY MODE button PUSH
+NOTE
+REVERSIONARY MODE button is red and located on the bot-
+tom of the audio panel .
+CAUTION
+If a display fails, the related Integrated Avionics Unit (IAU) is
+cut off and can no longer communicate with the remaining dis-
+play: subsequently the NAV and COM functions provided to the
+failed display by the associated Integrated Avionics Unit are
+flagged as invalid on the remaining display.
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+AVIONIC SUITE FAILURES
+0
+Page 3 - 11
+4. ENGINE SECURING
+Following procedure is applicable to shut-down the engine in flight:
+1. Throttle Lever IDLE
+2. Ignition key OFF
+3. Fuel Selector OFF
+4. Electrical fuel pump OFF
+5. Generator switch OFF
+5. AIRCRAFT EVACUATION
+With the engine secured and propeller stopped (if practical):
+1. Parking brake ON
+2. Seat belts UNSTRAP
+3. Headphones REMOVE
+4. Door OPEN
+5. MASTER SWITCH OFF
+6. Escape away from flames/hot engine compartment/spilling fuel tanks/hot
+brakes
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+ENGINE SECURING AND AIRCRAFT EVACUATION
+Page 3 - 12
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+Page 3 - 13
+6. ENGINE FAILURES
+6.1. ENGINE FAILURE DURING TAKEOFF RUN
+If engine fails before rotation: ABORT TAKE OFF
+1. Throttle Lever ………………………….. IDLE (fully out and hold)
+2. Mixture …………………………………. CUT OFF
+3. Brake ……………………………………. AS REQUIRED
+With aircraft stopped
+4. Ignition key……………………………….. OFF
+5. Fuel Selector……………………………… OFF
+6. Electrical fuel pump……………………… OFF
+7. Generator & Master Switches……………… OFF
+8. Parking Brake……………………………… ENGAGED
+9. Aircraft Evacuation………………………… PERFORM if necessary
+6.2. ENGINE FAILURE AFTER TAKE-OFF
+If engine fails immediately after becoming airborne:
+ Abort on the runway if possible.
+In case low altitude precludes a runway stop and / or engine restart:
+1. establish a glide attitude ( VGLIDE )
+ Find a suitable place on the ground to land safely.
+CAUTION
+The landing should be planned straight ahead with only small
+changes in directions not exceeding 45° to the left and 45° to
+the right.
+Any turn would reduce the glide performance.
+2. Throttle Lever…………………………… IDLE (fully out and hold)
+3. Mixture…………………………………… CUT OFF
+4. Brakes……………………………………. As required
+With aircraft stopped
+5. Fuel Selector……………………………… OFF
+6. Electrical fuel pump……………………… OFF
+7. Ignition key……………………………….. OFF
+8. Generator&Master Switches……………… OFF
+9. Parking Brake……………………………… ENGAGED
+10. Aircraft Evacuation………………………… PERFORM if necessary
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+POWERPLANT EMERGENCIES
+Page 3 - 14
+6.3. PROPELLER OVERSPEED
+In case of propeller overspeeding in flight, apply following procedure:
+1. Throttle Lever ……………. REDUCE power
+2. Mixture Lever ……………. AS REQUIRED
+3. RPM indicator .…………… CHECK
+If it is not possible to decrease propeller RPM, land as soon as possible apply-
+ing Forced landing procedure. (See Para 0)
+CAUTION
+Maximum propeller RPM exceedance may cause engine components
+damage.
+Apply caution while accelerating with power lever close to max and
+monitor engine RPM; RPM overspeed shall be prevented by retard-
+ing power lever.
+6.4. IRREGULAR RPM
+1. Fuel pump: …………………………………ON
+2. Fuel quantity and pressure indicators: …..…CHECK
+3. If necessary: ……………………………….. SWITCH TANK
+If engine continues to run irregularly
+ Land as soon as possible.
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+POWERPLANT EMERGENCIES
+Page 3 - 15
+6.5. CHT LIMIT EXCEEDANCE
+If CHT exceeds maximum limit:
+1. Throttle Lever ……………. REDUCE power as practical
+2. Mixture Lever ……………. Rich as required
+3. CHT ……………………… Verify decreasing
+If CHT stabilizes in the green arc:
+4. Continue flight
+If CHT continue to rise and engine shows roughness:
+Land as soon as possible applying forced landing procedures (See Para 0)
+6.6. OIL TEMPERATURE LIMIT EXCEEDANCE
+If oil temperature exceeds maximum limit:
+Maximum oil temperature limit exceedance can be the final effect
+of different causes: excessive friction between moving engine
+NOTE
+components, oil leakage from the circuit (with related pressure
+reduction) etc.
+1. Throttle Lever REDUCE engine power
+2. Mixture lever Enrich as required
+3. OIL TEMP CHECK
+if oil temperature does not decrease:
+4. Airspeed INCREASE
+5. OIL TEMP CHECK
+If oil temperature does not come back within limits:
+6. Land as soon as practical with engine set to the minimum necessary
+power
+If engine roughness, vibrations, erratic behaviour or high CHT is detected:
+Land as soon as possible applying forced landing procedure (See Para 0)
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+POWERPLANT EMERGENCIES
+0
+Page 3 - 16
+6.7. OIL PRESSURE LIMITS EXCEEDANCE
+LOW OIL PRESSURE
+If oil pressure is under the lower limit
+1. Throttle Lever …………… REDUCE to minimum practical
+2. Mixture Lever ...………….. as required
+3. OIL TEMP ………………… CHECK within limits
+4. OIL PRESS ……………… CHECK
+If oil pressure does not increase and temperature remains within limits
+Monitor oil and cylinder head temperatures.
+Land as soon as practicable.
+If oil pressure does not increase and temperature exceeds limits
+Reduce engine power to minimum required.
+Land as soon as possible applying Forced landing procedure. (See Para 0)
+Be prepared for engine failure and emergency landing.
+If oil pressure tends to zero (combined with vibration, loss of oil, unusual
+metallic smoke and noise)
+Apply Forced landing procedure. (See Para 0)
+HIGH OIL PRESSURE
+If oil pressure exceeds upper limit
+1. Throttle Lever …………… first REDUCE engine power by 10%
+2. Mixture Lever ……………... as required
+3. OIL PRESS ………………... CHECK
+If oil pressure does not decrease
+4. Land as soon as possible applying Forced landing procedure. (See Para 0)
+An excessive oil pressure value can be counteracted by de-
+creasing propeller RPM.
+NOTE
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+POWERPLANT EMERGENCIES
+Page 3 - 17
+6.8. LOW FUEL PRESSURE
+If fuel pressure decreases below the lower limit
+1. Electric fuel pump………... ON
+2. Fuel selector valve………... Select opposite fuel tank if NOT empty
+3. Fuel quantity ……………... CHECK
+If fuel pressure doesn’t build up:
+1. Land as soon as practical. Prepare for potential engine failure and pre-
+pare to apply Forced landing procedure. (See Para 0)
+6.9. HIGH FUEL PRESSURE
+If fuel pressure increases above the upper limit
+1. Land as soon as possible. Prepare for potential engine shut down and
+apply Forced landing procedure. (See Para 0)
+Possible injector failure or obstruction.
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+POWERPLANT EMERGENCIES
+Page 3 - 18
+6.10. DEFECTIVE ENGINE CONTROLS
+Defective Mixture Control Cable
+1. Maintain altitude to the nearest airfield
+2. During descent, check engine behaviour to a higher power setting. A lean
+mixture can lead to engine roughness and loss of power.
+Landing approach must be planned accordingly.
+Go-around may then be impossible.
+WARNING
+Defective Throttle Control Cable
+If power is sufficient to continue flight:
+1. Approach nearest airfield
+2. Perform landing with shut-down engine applying Forced landing proce-
+dure. (See Para 0)
+If power is not sufficient to continue flight:
+1. Carry out Forced landing procedure. (See Para 0)
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+POWERPLANT EMERGENCIES
+Page 3 - 19
+7. INFLIGHT ENGINE RESTART
+7.1. PROPELLER WINDMILLING
+WARNING
+In case of engine shutdown, propeller will keep windmilling and will
+not stop, preventing the use of ignition key. Engine inflight restart
+must be performed without using ignition key until propeller is
+windmilling in order to avoid possible engine damages.
+Typical indication of a potential engine shutdown, with windmilling
+propeller, will be low RPM values incompatible with power lever
+demand, to be confirmed by other engine instruments (OIL Pressure,
+CHT, EGT running down abnormally).
+Flight test results suggest a windmilling propeller speed as low as
+600-500 RPM at low speeds in case of flameout.
+Inflight engine restart may be performed during 1g flight anywhere
+within the normal operating envelope of the airplane.
+1. Master switch ……………………………… Check ON
+2. Fuel pump …………………………………. ON
+3. Fuel quantity indicator …………………….. CHECK
+4. Fuel Selector ………………………………. SWITCH TANK
+5. Throttle Lever …………………………….. Minimum 1cm(0,39in) above IDLE
+6. Mixture …………………………………… FULL rich
+7. Throttle lever ……………………………… SET as required
+In case of unsuccessful engine restart:
+ Land as soon as possible applying Forced landing procedure. (See Para 0)
+In case of successful engine restart:
+ Land as soon as possible
+After engine restart, if practical, moderate propeller RPM to
+CAUTION
+allow the temperatures for stabilizing in the green arcs.
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+INFLIGHT ENGINE RESTART
+Page 3 - 20
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+Page 3 - 21
+8. SMOKE AND FIRE
+8.1. ENGINE FIRE ON THE GROUND
+1. Mixture ……………………………………… CUT OFF
+2. Cabin heat and defrost …………………….. OFF
+3. Fuel Selector ………………………………. . OFF
+4. Ignition key ………………………………… OFF
+5. Fuel pump…………………………………... OFF
+6. MASTER SWITCH ……………………….. OFF
+7. Parking Brake …………………………….... ENGAGED
+8. Aircraft evacuation…………………............. PERFORM (Para 4)
+8.2. ENGINE FIRE DURING TAKEOFF
+If engine fails before rotation: ABORT TAKE OFF
+1. Throttle Lever…………………………….. IDLE
+2. Mixture……………………………………. CUT OFF
+3. Brakes……………………………………… AS REQUIRED
+With aircraft under control
+4. Fuel Selector……………………………….. OFF
+5. Electrical fuel pump………………………. OFF
+6. Ignition key………………………………… OFF
+7. Cabin Heat…………………………………. OFF
+8. Field & Master Switches…………………... OFF
+9. Parking Brake……………………………… ENGAGED
+10. Aircraft Evacuation………………………… PERFORM (Para 4)
+8.3. ENGINE FIRE IN FLIGHT
+1. Cabin heat and defrost …………………….. BOTH OFF
+2. Mixture ……………………………………… CUTOFF
+3. Fuel Selector ………………………………... OFF
+4. Throttle Lever ……………………………... FULL FORWARD
+5. Ignition key ……………………………….... OFF
+6. Electrical fuel pump ……………………….. OFF
+7. Master Switches ………………………………... OFF
+8. Cabin ventilation …………………………… OPEN
+9. Land as soon as possible applying Forced landing procedure. (See Para
+0)
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+SMOKE AND FIRE OCCURRENCE
+Page 3 - 22
+8.4. ELECTRICAL SMOKE IN CABIN ON THE GROUND
+1. MASTER SWITCH ………………………….. OFF
+2. Generator Switch …………………………...... OFF
+3. Cabin heat and defrost ………………………. OFF
+4. Throttle Lever ………………………………… IDLE
+5. Ignition key …………………………………… OFF
+6. Fuel Selector ………………………………….. OFF
+With propeller stopped, evacuate the aircraft
+8.5. ELECTRICAL SMOKE IN CABIN DURING FLIGHT
+1. Cabin heat …………………………………... OFF
+2. Cabin ventilation…………………………… OPEN
+3. In case of fire, direct the fire extinguisher toward the base of flame
+If smoke persists:
+4. Generator switch……………………………. OFF
+If smoke persists:
+5. Generator switch……………………………. ON
+6. Keep RPM above 1000
+7. Master switch……………………………….. OFF
+If smoke persists:
+8. Generator switch……………………………. OFF
+If the Generator SWITCH is set to OFF, consider that flaps are
+supplied by battery.
+CAUTION
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+SMOKE AND FIRE OCCURRENCE
+Page 3 - 23
+9. RECOVERY FROM UNINTENTIONAL SPIN
+If unintentional spin occurs:
+1. Throttle …………………………… IDLE
+2. Rudder …………………………………… Fully opposite to the direction of spin
+3. Control Yoke …………………………….. Centralize and hold neutral
+When rotation stops:
+4. Rudder …………………………………… NEUTRAL
+5. Attitude ……………………………………. RECOVERY promptly but smoothly,
+averting speed close to/in excess of
+VNE
+6. Throttle ……………………………………..AS REQUIRED
+Keep full rudder against rotation until spin has stopped.
+One complete turn and recovery will take about 800 to 1000 feet alti-
+tude loss.
+WARNING
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+UNINTENTIONAL SPIN RECOVERY
+Page 3 - 24
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+Page 3 - 25
+10. OTHER EMERGENCIES
+10.1. LOSS OF ESSENTIAL BUS
+In case of loss of essential bus, the following will be lost (related breakers are listed):
+PFD FLAP ACTUATOR
+COM1 PITOT HEAT
+GPS1/NAV1 STROBE LIGHT
+EIS LANDING LIGHT
+AHRS
+FUEL PUMP FIELD ADC
+STALL WARNING ANN. PANEL
+Electrical power from Alternator is lost, battery will automatically provide energy
+(duration at least 30 min.).
+Pilot will need to make reference to standby instrument for primary flight infor-
+mation and parameters.
+Pilot will be able to use the audio panel and COM2/NAV2 via MFD.
+Engine parameters and related warnings/cautions are lost.
+Flaps extension and retraction will be lost, apply Flaps control failure procedure
+(See Para 10.6).
+Strobe and landing lights will be lost, NAV and taxi lights are still available;
+taxi light will be the only visual aid for landing in night conditions.
+10.2. LOSS OF MAIN BUS
+In case of loss of main bus, the main bus voltage will drop to zero.
+The following will be lost (related breakers are listed):
+AUDIO PANEL RUDDER TRIM ACTUATOR A.D.I. (running on internal battery power) START AVIONIC
+INSTR. LIGHT MFD
+NAV LIGHT COM2
+28/12 VDC CONVERTER (if installed) TAXI LIGHT GPS2/NAV2
+12VDC SOCKET (if installed) CABIN LIGHT ADF
+INSTRUMENT (clock, pitch trim indic.) FAN (G1000) XPDR
+COPILOT SEAT (if installed) PILOT SEAT (if installed) DME
+Fail safe operation of Garmin G1000 allows pilot to transmit and use COM1 using
+headphones only; speakers will not be available.
+For night flights, all instrument lights will be lost, but emergency light will still be
+available.
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+OTHER EMERGENCIES
+Page 3 - 26
+10.3. ELECTRICAL SYSTEM OVERALL FAILURE
+In case of electrical system overall failure, apply following procedure:
+1. MASTER SWITCH ……………………. OFF
+2. Generator Switch …………………… OFF
+3. MASTER SWITCH ……………………. ON
+4. Generator Switch …………………… ON
+If failure persists
+Land as soon as possible
+NOTE
+WARNING
+Standby instrument is still available, providing the internal bat-
+tery is in good charge status (>80%) it will provide at least 1 hr
+of runtime.
+An electrical system overall failure prevents flaps operation:
+landing distance without flaps increases of about 25% (See also
+Para 10.6).
+10.4. STATIC PORT FAILURE
+In case failure, the alternate static port in the cabin must be activated.
+In this case apply following procedure:
+1. Cabin ventilation ………………………….. OFF (hot and cold air)
+2. ALTERNATE STATIC PORT VALVE …. OPEN
+3. Continue the mission
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+OTHER EMERGENCIES
+Page 3 - 27
+10.5. UNINTENTIONAL FLIGHT INTO ICING CONDITIONS
+1. Pitot heat ……...………….. ON
+2. Fly immediately away from icing conditions (changing altitude and direc-
+tion of flight, out and below of clouds, visible moisture, precipitations).
+3. Control surfaces …………. MOVE continuously to avoid locking
+4. Throttle……………………. INCREASE to prevent ice build-up on propeller
+blades
+WARNING
+In event of ice build-up in correspondence of wing leading edg-
+es, stall speed increases and stall may become asymmetric. In
+case of stabilator ice accretion, it may loose its efficiency, lead-
+ing to lack of aircraft pitch control and loss of control.
+10.6. FLAPS CONTROL FAILURE
+DURING TAKEOFF
+CAUTION
+In case of unintentional flaps retraction, or if the flaps control
+fails, and if the takeoff cannot be aborted, consider that the dis-
+tances, without flaps, increase by about 20%.
+1. Flap position………………. CHECK and confirm
+2. Airspeed ………………….. KEEP below VFE
+3. Land as soon as practical
+DURING APPROACH/LANDING
+CAUTION
+In case of unintentional flaps retraction or if the flaps control
+fails, consider that the landing distance without flaps increases
+by about 25%.
+1. Flap position………………. CHECK and confirm
+2. Airspeed …………………… ESTABLISH no-flaps approach speed
+3. Land as soon as practical
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+OTHER EMERGENCIES
+Page 3 - 28
+10.7. ELECTRICAL RUDDER TRIM CONTROL FAILURE
+Trim Runaway
+In event of trim runaway:
+1. Speed: ADJUST to control aircraft without excessive pedal force
+2. Rudder: AS REQUIRED
+3. Land aircraft as soon as practical.
+Trim Jamming
+Should trim control be jammed / inoperative:
+1. Breaker: CHECK IN
+2. Speed: ADJUST to control aircraft without excessive pedal force
+3. Rudder: AS REQUIRED
+4. Land aircraft as soon as practical.
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+OTHER EMERGENCIES
+Page 3 - 29
+11. LANDING EMERGENCIES
+11.1. FORCED LANDING WITHOUT ENGINE POWER
+Preparation:
+1. Flaps…………………………………. UP
+2. Airspeed ……………………………... ESTABLISH VGLIDE
+3. Radio ………………………………… Transmit MAYDAY giving
+location and intentions
+4. Transponder …………………………. 7700
+5. If off airport, ELT …………………… ON
+6. Find a suitable place to land safely, plan to approach it upwind
+7. Throttle Lever ………………………. IDLE
+8. Mixture ……………………………… CUTOFF
+9. Fuel Selector ………………………... OFF
+10. Ignition key …………………………. OFF
+11. Fuel pump …………………………… OFF
+12. Seat belts ……………………………. Tightly FASTENED
+When landing is assured:
+13. Flaps ………………………………… AS REQUIRED
+14. Generator and Master switches ..……. OFF
+NOTE
+Be prepared for aircraft evacuation (Para 4).
+11.2. POWER-ON FORCED LANDING
+1. Flaps…………………………………. UP
+2. Airspeed ……………………………... ESTABLISH VGLIDE
+3. Locate the most suitable terrain for emergency landing, plan to approach upwind
+4. Safety belts……………..……………… Tightly FASTENED
+When landing is assured:
+5. Flaps …………………………………... AS NECESSARY
+6. Fuel selector valve…………………….. OFF
+7. Electric Fuel Pump……………………. OFF
+8. Ignition Key…………………………… OFF
+9. Generator and Master switches……….. OFF
+2nd Edition, Rev.3
+Section 3 – Emergency procedures
+LANDING EMERGENCIES
+Page 3 - 30
+11.3. LANDING WITH NOSE LANDING GEAR TIRE DEFLATED
+1. Pre-landing checklist: COMPLETE
+2. Flaps: LAND
+3. Land and maintain aircraft NOSE HIGH attitude as long as possible.
+As aircraft stops
+4. Engine securing: PERFORM (see Para. 5)
+5. Airplane evacuation: PERFORM (see Para 4)
+11.4. LANDING WITH A MAIN LANDING GEAR TIRE DEFLATED
+1. Pre-landing checklist: COMPLETE
+2. Flaps: LAND
+3. Land the aeroplane on the side of runway opposite to the defective tire to
+compensate the change in direction which is to be expected during final
+rolling (put the drag in the middle)
+4. Touchdown with the GOOD TIRE FIRST and hold aircraft with the flat
+tire off the ground as long as possible by mean of aileron and rudder con-
+trol.
+As aircraft stops
+5. Engine securing: PERFORM (see Para. 5)
+6. Airplane evacuation: PERFORM (see Para. 4)
+2nd Edition, Rev.0
+Section 3 – Emergency procedures
+LANDING EMERGENCIES
+Page 4 - 1
+SECTION 4 – NORMAL PROCEDURES
+INDEX
+1. INTRODUCTION ....................................................................................... 3
+2. IFR flight: training pre-requisites and incremental
+exposition to G1000 suite ................................................................... 4
+3. AIRSPEEDS FOR NORMAL OPERATIONS ........................................ 7
+4. PRE-FLIGHT INSPECTION .................................................................... 9
+4.1. Cabin Inspection ........................................................................... 9
+4.2. Aircraft Walk-around ................................................................... 10
+5. CHECKLISTS .......................................................................................... 15
+5.1. Before Starting engine (After Preflight Inspection) .................... 15
+5.2. Engine Starting ........................................................................... 16
+5.3. Before taxiing ............................................................................. 17
+5.4. Taxiing ........................................................................................ 18
+5.5. Before takeoff ............................................................................. 19
+5.6. Takeoff ........................................................................................ 20
+5.7. Climb ........................................................................................... 21
+5.8. Cruise .......................................................................................... 22
+5.9. Mixture adjustment recommendation ........................................ 22
+5.10. Descent ....................................................................................... 23
+5.11. Before landing ............................................................................. 24
+5.12. Balked landing/missed approach ................................................ 24
+5.13. Go-around .................................................................................... 24
+5.14. After landing ............................................................................... 24
+5.15. Engine shut down ........................................................................ 25
+5.16. Postflight checks ........................................................................ 25
+5.17. FLIGHT IN RAIN .......................................................................... 26
+5.18. REFUELLING ............................................................................... 26
+5.19. FLIGHT AT HIGH ALTITUDE ........................................................ 26
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+INDEX
+Page 4 - 2
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Page 4 - 3
+1. INTRODUCTION
+Section 4 describes checklists and recommended procedures for the conduct of
+normal operations for P2010 aircraft.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+INTRODUCTION
+Page 4 - 4
+2. IFR FLIGHT: TRAINING PRE-REQUISITES AND INCREMENTAL EX-
+POSITION TO G1000 SUITE
+The aircraft is fully equipped with a Garmin G1000 avionic suite that integrates
+radio aids navigation with GPS navigation, providing an outstanding capability to
+support IFR flight, from basic instrument training to complex IFR scenario.
+NOTE
+Depending on national regulations, in some countries flying IFR with a single en-
+gine aircraft without autopilot installation and/or single pilot may or may not be
+allowed, any customer must pay careful attention to check limitations that may
+apply.
+The use of G1000 software requires full system knowledge (G1000 manual which
+will also specify peculiar limitations), careful preparation, ground training on the
+computer-assisted software and pre-flight training before flight.
+Furthermore, as a minimum during training, it’s strongly recommended using the
+avionic suite in IFR with incremental steps after initial basic IFR instruction:
+1. Initial use of a single radio-aids (No GPS);
+2. Use of two radio-aids (No GPS);
+3. Use of GPS for point to point navigation (No approaches);
+4. Use of VNAV feature;
+5. Full use of avionic suite.
+The flight training syllabus for IFR instruction will need to address this incremen-
+tal approach in order to give pilots awareness of full avionic potential, and to
+highlight the complexity of single pilot usage of G1000 Garmin suite while en-
+route or high density airspace structure.
+CAUTION
+Due to precision required on IFR flight, the workload that may develop using full
+avionic suite, may get excessive in single pilot without the aid of an autopilot.
+Considering the complexity of the G1000 suite, sound judgment will be required
+(weather, airspace complexity, pilot skills) to assess the best option of IFR steer
+guidance.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+IFR FLIGHT: TRAINING PRE-REQUISITES AND INCREMENTAL
+EXPOSITION TO G1000 SUITE
+Page 4 - 5
+NOTE
+The necessity to correct or modify flight plans in the Garmin G1000 under these
+conditions may distract pilots from basic handling causing deviations from as-
+signed parameters, so careful attention must be exercised to avoid deviations on
+flying parameters.
+It’s highly recommended to continue cross-checking flight parameters when en-
+tering flight data into the G1000, especially when trying to create / insert arrival
+and departure procedures and / or VNAV profiles as the quantity of actions need-
+ed is high and may distract pilots from basic and precise handling.
+The following prescriptions, other than those already present in the G1000 manu-
+al, shall be observed:
+- Use of GPS for precision approach navigation mode is not allowed.
+- Use of GPS is prohibited as primary means for navigation. GPS is approved as sup-
+plemental means for navigation;
+- Use of GPS is prohibited for IFR in terminal area or in non-precision approach op-
+erations;
+If Receiver Autonomous Integrity Monitoring (RAIM) function becomes unavail-
+able in en route phase of flight, position must be verified every 15 minutes using
+other IFR approved navigation system.
+Turbulence and / or crosswind:
+Presence of moderate to heavy turbulence and / or strong crosswind conditions (above
+20 kts crosswind) will require high drift angle to correct for wind (above 15° drift) and
+highly reduce spare capabilities to do other concurrent tasks inside the cockpit other
+than precise flying.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+IFR FLIGHT: TRAINING PRE-REQUISITES AND INCREMENTAL
+EXPOSITION TO G1000 SUITE
+Page 4 - 6
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Page 4 - 7
+3. AIRSPEEDS FOR NORMAL OPERATIONS
+The following airspeeds are those which are significant for normal operations.
+FLAPS 1160 kg
+(2557 lb)
+Rotation Speed (VR) T/O 60 KIAS
+Best Angle-of-Climb Speed (VX) T/O 65 KIAS
+Best Angle-of-Climb Speed (VX) 0° 76 KIAS
+Best Rate-of-Climb speed (VY) 0° 82 KIAS
+Flaps (VFE) T/O & LAND 91 KIAS
+No flaps approach 0° 80 KIAS
+Approach speed T/O 75 KIAS
+Final Approach Speed FULL 70 KIAS
+Optimal Touch Down Speed FULL 60 KIAS
+Manoeuvring speed (VA) 0° 120 KIAS
+Glide Speed (VGLIDE) 0° 85 KIAS
+Never Exceed Speed (VNE) 0° 166 KIAS
+2nd Edition, Rev. 3
+Section 4 – Normal procedures
+AIRSPEED FOR NORMAL OPERATIONS
+Page 4 - 8
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Page 4 - 9
+4. PRE-FLIGHT INSPECTION
+Before each flight, it is necessary to carry out a complete aircraft check including a
+cabin inspection followed by an external inspection, as below detailed.
+4.1. CABIN INSPECTION
+1. Aircraft documents (ARC, Certificate of Airworthiness, Noise certificate,
+Radio COM certificate, AFM): check current and on board
+2. Weight and balance: calculate (ref. to Section 6) and check within limits
+3. Breaker: all IN
+4. Safety belts: connected to hard points, check condition
+5. Ignition key: OFF, key extracted
+6. Master switch: ON
+7. Voltmeter: check within the limits
+8. Lights: all ON, check for operation
+9. Acoustic stall warning: check for operation
+10. Master switch: OFF
+11. Baggage: check first aid kit, ELT, fire extinguisher, luggage secured with
+restraint net.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Pre-flight Inspection
+0
+Page 4 - 10
+4.2. AIRCRAFT WALK-AROUND
+To perform the aircraft walk-around, carry out the checklists according to the pattern
+shown in Figure 4-1.
+WARNING
+Visual inspection is defined as follows: check for defects, cracks,
+detachments, excessive play, unsafe or improper installation as
+well as for general condition. For control surfaces, visual in-
+spection also involves additional check for freedom of movement
+and security. Red lubber lines on bolts and nuts shall be intact.
+Fuel level indicated by the fuel quantity indicators must be veri-
+fied by visual check of actual fuel quantity embarked in the tanks:
+graduated dipstick must be used.
+WARNING
+WARNING
+NOTE
+If ignitions key is in L/R/BOTH position, a propeller movement
+can cause the engine starting with consequent hazard for people
+nearby.
+Fuel drainage operation must be carried out with the aircraft
+parked on a level surface. Set Cockpit Fuel Selector Valve to
+OFF prior to drain fuel.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Pre-flight Inspection
+0
+Page 4 - 11
+S
+D
+C
+B
+A
+T
+U
+V
+Z
+R
+Q
+P
+O
+F
+E G
+L M N
+I
+H
+Figure 4.1
+A Left fuel filler cap B Pitot tube C Left side leading edge and wing
+skin
+D Left strobe light E Left aileron, hinges and LH tank
+vent line
+CHECK desired fuel level (use graduated
+dipstick). Drain the left fuel tank sump by
+quick drain valve using a cup to collect fuel
+(drainage operation must be carried with
+the aircraft parked on a level surface).
+Check for water or other contaminants.
+Make sure filler cap is closed.
+REMOVE pitot plug and check the pitot for
+obstructions. Do not blow inside pitot tube.
+Visual inspection, check stall strips (if pre-
+sent)
+Visual inspection, CHECK for integrity and
+fixing
+CHECK aileron and hinges for damage, and
+freedom from plays;
+Copper bonding strips: CHECK for proper
+connection;
+Left tank vent: CHECK for obstructions.
+F Left flap and hinges Visual inspection;
+Copper bonding strips: CHECK for proper
+connection.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Pre-flight Inspection
+0
+Page 4 - 12
+G Left main landing gear H Stabilator, tab and rear light I Vertical tail and rudder L Right main landing gear M Right flap and hinges N Right aileron, hinges and RH tank
+vent line
+O Right strobe light, leading edge
+and wing skin
+P Stall indicator switch Q Right fuel filler cap R Nose wheel strut and tire/
+RH static port
+CHECK inflation, tire condition, alignment,
+fuselage skin condition. Check fuselage skin
+status, tire status (cuts, bruises, cracks and
+excessive wear), slippage markers integrity,
+gear structure and brakes hoses: there
+should be no sign of hydraulic fluid leakage.
+CHECK stabilator leading edge. Check the
+actuating mechanism of stabilator and the
+connection with related tab: CHECK free of
+play, friction. CHECK fuselage bottom and
+top skin. CHECK antennas for integrity.
+Check light for integrity.
+Visual inspection, check free of play, friction.
+CHECK inflation, tire condition, alignment,
+fuselage skin condition. Check fuselage skin
+status, tire status (cuts, bruises, cracks and
+excessive wear), slippage markers integrity,
+gear structure and brakes hoses: there should
+be no sign of hydraulic fluid leakage.
+Visual inspection; Copper bonding strips:
+CHECK for proper connection;
+Visual inspection, check free of play, friction;
+Copper bonding strips: CHECK for proper
+connection; Right side tank vent: check for
+obstructions.
+Visual inspection, CHECK stall strips (if pre-
+sent), CHECK strobe light for integrity and
+fixing
+CHECK for integrity and free of play,
+CHECK desired fuel level (use graduated
+dipstick). Drain the right fuel tank sump by
+quick drain valve using a cup to collect fuel
+(drainage operation must be carried with the
+aircraft parked on a level surface). Check for
+water or other contaminants. Make sure filler
+cap is closed.
+CHECK inflation, tire condition and condi-
+tion of shock absorber: there should be no
+sign of hydraulic fluid leakage. Check the
+right static port for obstructions.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Pre-flight Inspection
+0
+Page 4 - 13
+S Propeller and spinner condition CHECK for nicks, cracks, dents and other de-
+fects, propeller should rotate freely. Check
+fixing and lack of play between blades and
+hub.
+T Check the engine cowling surface conditions, then open engine inspection doors
+and perform the following checks:
+V Landing/taxi light and LH static
+port
+Z Tow bar and chocks a) Nacelle inlets and exhausts openings must be free of obstructions. Check
+connection and integrity of air intake system, visually inspect that ram air
+intake is unobstructed. If inlet and outlet plugs are installed, they must be
+removed.
+b) Check radiator. There should be no indication of leakage of fluid and they
+have to be free of obstructions.
+c) Check for foreign objects
+d) Only before the first flight of a day:
+(1) Brake Hydraulic fluid tank: check for correct level and replenish as
+required
+(2) Check V belt for general condition
+(3) Exhaust: inspect for damages, leakage and general condition.
+(4) Check engine mount and silent-blocks for condition.
+e) At cold engine, Check engine oil level and replenish as required. Prior to
+long flights oil should be added so that the oil level reaches the “max”
+mark.
+f) Drain off Gascolator for water and sediment (drain until no water comes
+off). Then make sure drain valve is closed.
+g) Check drainage hoses free of obstructions
+h) Verify all parts are fixed or locked: inspect fuel circuit for leakages.
+U Engine cowling doors CLOSE, check for proper alignment of cam-
+locks
+CHECK, Visual inspection for integrity.
+Right side tank vent: check for obstructions.
+REMOVE, stow on board pitot, static ports
+and stall warning protective plugs.
+NOTE
+Avoid blowing inside Pitot tube and inside airspeed indicator system's
+static ports as this may damage instruments.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Pre-flight Inspection
+0
+Page 4 - 14
+INTENTIONALLY LEFT BLANK
+Section 4 – Normal procedures
+2nd Edition, Rev. 0
+0
+Page 4 - 15
+5. CHECKLISTS
+5.1. BEFORE STARTING ENGINE (AFTER PREFLIGHT INSPECTION)
+1. Seat position and safety belts: adjust
+2. Flight controls: operate full stroke checking for movement smoothness, free of
+play and friction.
+3. Parking brake: engage
+4. Throttle friction: adjust
+5. Throttle: IDLE
+6. Mixture control Lever: LEAN
+7. Circuit Breakers: check all IN
+8. Master switch: ON, wait PFD turn on, Check ALT OUT caution ON, Check LOW
+FP and LOW OP warning ON
+9. Only before the first flight of the day:
+Standby Instrument: Check no red crosses displayed.
+a. Press and hold the control knob (approx. 2 sec)
+b. Rotate the knob selecting “INFO>” page then press it
+c. Select “BATTERY INFO” page then press the knob
+d. Check “CHARGE (%)” to be more than 80%, then exit menu
+10. Avionic Master switch: ON, wait MFD turn on, check instruments, check Voltage
+on Main and Essential Buses.
+11. Fuel quantity: compare the fuel quantity indicators information with fuel quantity visually
+checked into the tanks (see Pre-flight inspection – External inspection, and update the
+Garmin fuel content in the totalizer accordingly
+The totalizer function available on Garmin Engine page allows input only up to
+230lts (maximum usable fuel). Fuel calculations on totalizer do not use the air-
+craft fuel quantity indicators and are calculated from the last time the fuel was re-
+set. Fuel consumption on totalizer is very precise as it take instantaneous fuel flow
+for the computation.
+12. Electric fuel pump: ON (check for audible pump noise and increase of fuel pressure)
+13. Warning “LOW FUEL PRESSURE”: extinguished
+14. Electric fuel pump: OFF
+15. Flap control: cycle fully extended and then set to T/O
+16. Pitch Trim: cycle fully up and down, then set to NEUTRAL
+17. Rudder trim: cycle full right and left, then set to NEUTRAL
+Pitch trim position other than in neutral position would affect take off per-
+formance and take off rotation execution at the correct VR.
+18. Nav & Strobe lights: ON
+In absence of RH seat occupant: fasten seat belts around the seat so as to pre-
+vent any interference with the aeroplane flight control operation and with rap-
+id egress in an emergency.
+19. Doors: Closed and locked
+NOTE
+WARNING
+NOTE
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Checklists
+Page 4 - 16
+WARNING
+5.2. ENGINE STARTING
+(a) Cold engine
+1. Engine throttle: 1cm (1/2 inch) above idle
+2. Fuel selector valve: select the tank with less fuel
+3. Electric fuel pump: ON
+4. Mixture: full open for 3 – 5” (positive fuel flow indication) then CUT-OFF
+5. Propeller area: check that area is clear of persons / objects
+Check to insure no person or object is present in the area close to
+the propeller. Forward lower sector visibility is not possible from
+inside the cockpit.
+CAUTION
+Do not overheat the starter motor. Do not operate it for more than
+10 seconds. After operating the starter motor, let it cool off for 20
+seconds. After 6 attempts to start the engine, let the starter cool off
+for half an hour.
+6. Ignition key: BOTH
+7. Ignition key: START
+8. Mixture: rapidly move to FULL RICH
+9. Throttle: set 1000 – 1200 RPM
+10. Check oil pressure rises within 10 sec.
+11. Check “OIL PRESSURE LOW”: extinguished
+12. Electric fuel pump: OFF
+13. Check fuel pressure: within limits
+14. Generator switch: ON
+15. Voltmeter: increase and check within green arc
+16. ALT FAIL caution: extinguished
+17. Nav. and taxi light: ON
+Avoid idling operations on the ground for optimum engine operation, maintain 1000-
+1200 RPM, do not exceed 2200 RPM on the ground.
+18. Engine instruments: Check within limits
+19. Check G1000 for warning / caution messages
+NOTE
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Checklists
+Page 4 - 17
+(b) Warm engine
+1. Engine throttle: IDLE
+2. Fuel selector valve: select the tank with less fuel
+3. Electric fuel pump: ON
+4. Propeller area: check for area clear of persons / objects
+Check to insure no person or object is present in the area close to the propel-
+ler. Forward lower sector visibility is not possible from inside the cockpit.
+WARNING
+CAUTION
+Do not overheat the starter motor. Do not operate it for more than 10 sec-
+onds. After operating the starter motor, let it cool off for 20 seconds. After 6
+attempts to start the engine, let the starter cool off for half an hour.
+5. Ignition key: BOTH
+6. Ignition key: START
+7. Mixture: rapidly to FULL RICH
+8. Throttle: set 1000 – 1200 RPM
+9. Check oil pressure rises within 10 sec.
+10. Electric fuel pump: OFF
+11. Check fuel pressure within limits
+12. Generator switch: ON
+13. Voltmeter: increase and check within green arc
+14. ALT FAIL caution: extinguished
+15. Engine instruments: check within green arc
+16. Check G1000 for warning / caution messages
+Avoid idling operations on the ground for optimum engine operation, maintain 1000-
+1200 RPM, do not exceed 2200 RPM on the ground.
+NOTE
+5.3. BEFORE TAXIING
+1. Flight instruments and avionics: set, TEST functions
+2. Altimeter: set
+3. Pitot Heat: ON, test for ammeter indication, then OFF
+4. Parking brake: OFF
+When taxiing at close range to other aircraft, or during night flight in clouds,
+fog or haze, the strobe lights should be switched OFF. The NAV lights must
+CAUTION
+always be switched ON during night procedures.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Checklists
+Page 4 - 18
+NOTE
+CAUTION
+5.4. TAXIING
+1. Parking brake: Release
+2. Brakes: check
+3. Flight instruments: check altimeter.
+Avoid prolonged idling during taxi.
+Alternator lights may appear when reducing engine RPM below 950 RPM (yellow
+arc). The light will stay ON until RPM is increased above.
+During taxi, it is recommended to maintain propeller speed at 1000RPM or above in
+order to preserve a full loaded battery, minimise annunciator nuisance and assure max-
+imum battery performance during flight.
+CAUTION
+NOTE
+Following extended operation on the ground, or at high ambient temperatures, the
+following indications of fuel vapor lock may appear:
+- Arbitrary changes in idle RPM and fuel flow;
+- Slow reaction of the engine to operation of throttle;
+- Engine will not run with throttle in IDLE position.
+Solution:
+1. For about 1 to 2 minutes, or until the engine settles, run at a speed of 1800 to
+2000 RPM. Oil and cylinder head temperatures must stay within limits.
+2. Pull throttle back to IDLE to confirm smooth running.
+3. Set throttle to 1200 RPM and mixture for taxiing, i.e., use mixture control lever
+to set the maximum RPM attainable.
+4. Immediately before the take-off run set the mixture for take-off, apply full throt-
+tle and hold this position for 10 seconds.
+Vapor lock can be avoided if the engine is run at speeds of 1800 RPM or more.
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Checklists
+Page 4 - 19
+NOTE
+5.5. BEFORE TAKEOFF
+1. Parking brake: brake pedal press, ON
+2. Engine instruments: Check within limits
+3. ALT OUT caution: OFF (check)
+4. Electric Fuel pump: ON
+5. Fuel selector valve: select the fullest tank
+6. Fuel pressure: check
+7. Mixture: FULL RICH
+For 5000ft density altitude and above, or high ambient temperatures, a FULL RICH
+mixture may cause rough running of the engine or a loss of performance. The mixture
+may be adjusted to obtain smooth engine operations.
+8. Throttle: set 1500 RPM
+a. Alternate Air check:
+ Alternate Air: PULL (Check drop 50-100 RPM)
+b. Mixture check:
+ Mixture: reduce
+ EGT: check increase
+ FF: check decrease
+ Mixture: FULL RICH
+9. Throttle: 2100 RPM
+10. Magneto Check: L – BOTH – R – BOTH
+ Max RPM drop: 175 RPM
+ Max. difference: 50 RPM
+11. Throttle: Idle
+12. Flaps: check T/O
+13. Pitch and Rudder trim: check neutral
+14. Flight controls: check free
+15. Seat belts: check fastened
+16. Doors: check closed and locked
+17. Parking brake: Release
+18. Landing light: ON as required
+19. XPDR: ON
+2nd Edition, Rev. 0
+Section 4 – Normal procedures
+Checklists
+Page 4 - 20
+NOTE
+WARNING
+5.6. TAKEOFF
+For 5000ft density altitude and above, or high ambient temperatures, a FULL RICH mixture
+may cause rough running of the engine or a loss of performance. The mixture may be ad-
+justed to obtain smooth engine operations.
+Lean to maximum RPM at Full Throttle prior to take-off where airports are at 5000ft density
+altitude or higher.
+During climb, a rough method of correctly leaning is to slowly reduce mixture lever until an
+increase of appr.ly 50-100 RPM is noticed at constant IAS or EGT reaches 1375°F mark.
+1. Pitot HEAT: ON if required
+2. Fuel pump: ON
+3. Brakes: apply
+4. Throttle: FULL and check approximately 2100  100 RPM
+Engine proper performance at full throttle shall be checked early in the ground roll
+in order to abandon take-off if necessary.
+A rough engine, sluggish RPM increase or failure to reach take-off RPM are reasons
+for abandoning the take-off. If the engine oil is cold, an oil pressure in the yellow sec-
+tor is permissible.
+5. Engine instruments: check parameters within the limits
+6. Brakes: Release
+7. Rotation speed VR: 60 KIAS
+At safe height:
+8. Flaps: retract (minimum speed 73 KIAS)
+NOTE
+Expect to adjust pitch trim (pitch up) when retracting flaps after take-off.
+9. Establish Climb rate VY: 82 KIAS
+10. Electrical fuel pump: OFF
+11. Fuel pressure: check within limits
+Section 4 – Normal procedures
+Checklists
+2nd Edition, Rev. 0
+Page 4 - 21
+NOTE
+NOTE
+5.7. CLIMB
+Due to position of fuel sensors, during climb fuel gauges in cockpit will indicate a fuel
+quantity slightly lower than the real amount. Regaining level flight will immediately
+restore correct indications.
+For 5000ft density altitude and above, or high ambient temperatures, a FULL RICH
+mixture may cause rough running of the engine or a loss of performance.
+The mixture may be adjusted to obtain smooth engine operations.
+Lean to maximum RPM at Full Throttle prior to take-off where airports are at 5000ft
+density altitude or higher.
+During climb, a rough method of correctly leaning is to slowly reduce mixture lever
+until an increase of appr.ly 50-100 RPM is noticed at constant IAS or EGT reaches
+1375°F mark.
+1. Flaps: UP (minimum speed 73KIAS)
+NOTE
+Expect to adjust pitch trim (pitch up) when retracting flaps after take-off
+NOTE
+2. Establish climb Vy: 82KIAS
+3. Electrical fuel pump: OFF
+4. Fuel pressure: check within limits
+5. Throttle: FULL
+6. MIXTURE: RICH, above 5000ft keep EGT constant
+7. Engine instruments: in the GREEN
+If the fuel pressure warning light illuminates, or the fuel pressure indication is below
+green arc, the electrical fuel pump must be switched ON.
+Section 4 – Normal procedures
+Checklists
+2nd Edition, Rev. 0
+Page 4 - 22
+5.8. CRUISE
+1. Power: set performance as required, refer to table in section 5 of AFM
+2. Fuel tank selector: as required to maintain symmetric balance
+3. Mixture: set in accordance with following para 5.9
+NOTE
+NOTE
+To optimize engine life, the cylinder head temperature (CHT) should lie
+between 150°F and 400°F in continuous operation, and not rise above
+435°F in fast cruise.
+Monitor and manually compensate asymmetrical fuel consumption by
+switching fuel selector valve. Switch ON the electric fuel pump prior to
+swap the fuel feeding from one tank to another.
+5.9. MIXTURE ADJUSTMENT RECOMMENDATION
+CAUTION
+The maximum permissible cylinder head temperature (500 °F) must never be ex-
+ceeded.
+The mixture control lever should always be moved slowly.
+Before selecting a higher power setting the mixture control lever should, on each
+occasion, be moved slowly to fully RICH before throttle adjustment.
+Care should always be taken that the cylinders do not cool down too quickly.
+The cooling rate should not exceed 50 °F per minute.
+For maximum service life cylinder head temperature should be kept below 475 °F
+(high performance cruise) and below 435 °F (for economy cruise).
+NOTE
+Best Cruise Economy Mixture
+The best economy mixture setting may only be used up to a power setting of 75 %. In order to obtain
+the lowest specific fuel consumption at a particular power setting, proceed as follows:
+- Slowly pull the mixture control lever back towards LEAN until the engine starts to run rough-
+ly.
+- Then push the mixture control lever forward just far enough to restore smooth running. At the
+same time the exhaust gas temperature (EGT) should reach a maximum.
+Best Cruise Power Mixture
+The mixture can be set for maximum performance at all power settings:
+- The mixture should first be set as for best economy.
+- The mixture should then be enriched until the exhaust gas temperature is approximately
+100°F lower.
+This mixture setting produces the maximum performance for a given manifold pressure
+and is mainly used for high power settings (approximately 75 %).
+Section 4 – Normal procedures
+Checklists
+2nd Edition, Rev. 0
+Page 4 - 23
+5.10. DESCENT
+NOTE
+Due to position of fuel sensors, during descent fuel gauges in cockpit will indicate a fuel
+quantity slightly higher than the real amount. Regaining level flight will immediately re-
+store correct indications.
+NOTE
+1. Mixture control: slowly full rich
+2. Throttle: reduce as required
+Shock cooling shortens engine life.
+When reducing power, the change in cylinder head temperature should not exceed 50°F
+per minute. In order to ensure best practice and avoid potential illumination of ALT FAIL
+(due to low propeller speed), the following best practice should be observed:
+- Reducing power to maintain a minimum descent speed of 85 KIAS (best glide) and / or
+a blade angle to maintain 850 RPM;
+- Opening the ALTER AIR command to full open (to avoid ice accretion).
+CAUTION
+The maximum permissible cylinder head temperature (500 °F) must never be exceeded.
+The mixture control lever should always be moved slowly.
+Before selecting a higher power setting the mixture control lever should, on each occasion,
+be moved slowly to fully RICH.
+Care should always be taken that the cylinders do not cool down too quickly. The cooling
+rate should not exceed 50 °F per minute.
+Section 4 – Normal procedures
+Checklists
+2nd Edition, Rev. 3
+Page 4 - 24
+NOTE
+5.11. BEFORE LANDING
+1. Electric fuel pump: ON
+2. Fuel valve: select the fullest tank
+3. Landing Light: ON
+On downwind, leg abeam touch down point:
+4. Flaps: set T/O (below 90KIAS)
+Expect to adjust pitch trim (pitch down) when extending flaps to T/O or
+LAND
+5. Approach speed: set
+On final leg, before landing:
+6. Mixture control lever: RICH
+7. Flaps: LAND
+8. Final Approach Speed: set
+9. Optimal touchdown speed: 60 KIAS
+Upon flaring the aircraft has the tendency to float before touching wheels down.
+Taking into account local environmental constraints, consider the possibility to
+adjust aiming point for a better touchdown point control.
+NOTE
+In conditions such as (e.g.) strong wind, danger of windshear or turbulence a
+higher approach speed shall be selected..
+CAUTION
+5.12. BALKED LANDING/MISSED APPROACH
+1. Throttle: FULL
+2. Speed: keep over 80 KIAS, climb to VY or VX as applicable
+3. Flaps position: T/O
+Above a safe height:
+4. Landing lights: OFF
+5.13. GO-AROUND
+1. Throttle: FULL
+2. Speed: keep over 80 KIAS, climb to VY or VX as applicable
+3. Flaps position: T/O
+5.14. AFTER LANDING
+1. Throttle: Idle
+2. Brakes: apply
+3. Pitot heat: OFF (if ON)
+4. Flaps: UP
+5. Electric Fuel Pump: OFF
+6. XPDR: OFF
+7. Landing light: OFF
+Section 4 – Normal procedures
+Checklists
+2nd Edition, Rev. 0
+Page 4 - 25
+5.15. ENGINE SHUT DOWN
+1. Parking brake: set
+2. Keep engine running at 1200 propeller rpm for about one minute in order to
+reduce latent heat.
+3. Avionic equipment: OFF
+4. Throttle: idle
+5. Magnetos: Check OFF – BOTH
+6. Mixture: closed
+7. Ignition key: OFF, key extracted
+8. Strobe light: OFF
+9. Avionic Master: OFF
+10. Master & Generator switches: OFF
+11. Fuel selector valve: OFF
+For safety, verify propeller is fully stopped before any other action.
+WARNING
+Instruct passenger to fully open RH door and depart, avoiding contact with wheels
+and sharp wing control surfaces edges.
+CAUTION
+5.16. POSTFLIGHT CHECKS
+1. Flight controls: lock by means of seat belts
+2. Wheel chocks and wing mooring lines: Set
+3. Parking brake: Release
+4. Doors: Close and lock
+5. Protection plugs: set over pitot tube, stall warning, static ports
+Section 4 – Normal procedures
+Checklists
+2nd Edition, Rev. 0
+Page 4 - 26
+5.17. FLIGHT IN RAIN
+Performance deteriorates in rain; this applies particularly to take-off distance and
+maximum Horizontal speed. The effect on flight characteristics is minimal.
+5.18. REFUELLING
+Before refuelling, the airplane must be connected to electrical ground.
+5.19. FLIGHT AT HIGH ALTITUDE
+At high altitudes the provision of oxygen for the occupant is necessary. Legal re-
+quirements for the provision of oxygen should be adhered to (see para 2.9)
+Section 4 – Normal procedures
+Checklists
+2nd Edition, Rev. 0
+Page 5 - 1
+SECTION 5 - PERFORMANCE
+INDEX
+1. Introduction .......................................................... 2
+2. Use of Performance Charts .................................. 2
+3. Airspeed Indicator System Calibration ................ 3
+4. ICAO Standard Atmosphere .................................. 5
+5. Stall speed ............................................................ 6
+6. Crosswind ............................................................. 7
+7. Take-Off performances ......................................... 8
+8. Take-off Rate of Climb ........................................ 11
+9. En-Route Rate of Climb ....................................... 12
+10. Cruise Performance ............................................ 13
+11. Landing performances ........................................ 15
+12. Balked Landing Performance ............................. 16
+13. Noise Data .......................................................... 17
+2nd Edition, Rev. 0
+Section 5 – Performances
+INDEX
+Page 5 - 2
+1. INTRODUCTION
+This section provides all necessary data for an accurate and comprehensive
+planning of flight activity from take-off to landing.
+Data reported in graphs and/or in tables were determined using:
+ “Flight Test Data” under conditions prescribed by EASA CS-23 regulation
+ aircraft and engine in good condition
+ average piloting techniques
+Each graph or table was determined according to ICAO Standard Atmosphere
+(ISA - s.l.); evaluations of the impact on performances were carried out by
+theoretical means for:
+ Airspeed
+ External temperature
+ Altitude
+ Weight
+ Runway type and condition
+2. USE OF PERFORMANCE CHARTS
+Performances data are presented in tabular or graphical form to illustrate the effect
+of different variables such as altitude, temperature and weight. Given information
+is sufficient to plan the mission with required precision and safety.
+Additional information is provided for each table or graph.
+2nd Edition, Rev. 0
+Section 5 - Performances
+INTRODUCTION
+Page 5 - 3
+3. AIRSPEED INDICATOR SYSTEM CALIBRATION
+Normal Static Source
+Graph shows calibrated airspeed VIAS as a function of indicated airspeed VCAS.
+Airspeed Indication System Calibration
+170
+160
+150
+Flap UP
+Flap T/O
+Flap LN
+140
+Indicated Airspeed [KIAS]
+130
+120
+110
+100
+90
+80
+70
+60
+50
+50 60 70 80 90 100 110 120 130 140 150 160
+Calibrated Airspeed [KCAS]
+FIG. 5-1. CALIBRATED VS INDICATED AIRSPEED
+Example:
+Given Find
+KIAS 75.0
+Flap: UP
+KCAS 74.7
+NOTE
+Indicated airspeed assumes 0 as an instrument error
+2nd Edition, Rev. 0
+Section 5 - Performances
+AIRSPEED INDICATOR SYSTEM CALIBRATION
+Page 5 - 4
+Alternate Static Source
+Alternate Static Air Open Vents Open Vents and Hot Air Open
+IAS
+HP
+IAS
+HP
+IAS
+HP
+[kn]
+[ft]
+[kn]
+[ft]
+[kn]
+[ft]
+Pressure Altitude
+[ft]
+IAS
+[kn] FLAP UP
+70 75 1020 72 1010 72 1020
+90 95 1020 92 1030 93 1020
+110 115 1030 113 1020 112 1020
+135 140 1040 139 1030 137 1030
+FLAP T/O
+60 63 1020 63 1020 62 1010
+1000
+70 75 1020 73 1020 72 1020
+90 94 1020 92 1020 92 1020
+FLAP LND
+60 62 1020 61 1020 61 1020
+70 72 1020 72 1020 71 1020
+90 92 1020 91 1020 91 1020
+FLAP UP
+70 72 5020 72 5020 71 5020
+90 94 5030 93 5020 92 5020
+110 114 5030 113 5020 112 5020
+133 137 5040 136 5030 135 5020
+FLAP T/O
+60 62 5010 62 5020 61 5010
+5000
+70 74 5020 73 5020 72 5020
+90 93 5030 93 5020 93 5020
+FLAP LND
+60 63 5030 62 5020 61 5000
+70 72 5020 72 5010 71 5010
+90 92 5020 92 5020 91 5010
+FLAP UP
+70 72 8020 72 8020 71 8020
+90 93 8030 92 8020 92 8020
+110 113 8030 112 8020 112 8020
+128 131 8040 130 8030 130 8020
+FLAP T/O
+60 62 8010 62 8020 61 8010
+8000
+70 73 8020 72 8020 72 8020
+90 92 8030 92 8020 92 8020
+FLAP LND
+60 61 8020 61 8020 61 8000
+70 72 8010 71 8010 71 8010
+90 92 8010 91 8010 91 8010
+2nd Edition, Rev. 0
+Section 5 - Performances
+AIRSPEED INDICATOR SYSTEM CALIBRATION
+Page 5 - 5
+4. ICAO STANDARD ATMOSPHERE
+FIG. 5-2. ICAO CHART
+Examples:
+Density Altitude: ISA Temperature: Scope Given Find
+A: Pressure altitude = 1600ft
+→ C: Density Altitude = 2550ft
+B: Temperature = 20°C
+D: Pressure altitude = 1600ft → E: ISA Air Temperature = 12°C
+2nd Edition, Rev. 0
+Section 5 - Performances
+ICAO STANDARD ATMOSPHERE
+Page 5 - 6
+5. STALL SPEED
+Weight: 1160 kg (2557 lb)
+Throttle Lever: IDLE
+CG: Most Forward (19%)
+No ground effect
+STALL SPEED
+BANK
+WEIGHT
+ANGLE
+FLAPS 0° FLAPS T/O FLAPS FULL
+[kg]
+([lb]) [deg] KIAS KCAS KIAS KCAS KIAS KCAS
+0 59 60 53 55 50 52
+1160
+(2557)
+(FWD C.G.)
+15 60 61 54 56 51 53
+30 64 65 58 59 54 56
+45 71 71 64 65 61 62
+60 85 85 77 78 73 74
+NOTE
+Altitude loss during conventional stall recovery, as demonstrated
+during flight tests is approximately 350 ft with banking below 15°.
+2nd Edition, Rev. 0
+Section 5 - Performances
+STALL SPEED
+Page 5 - 7
+6. CROSSWIND
+Maximum demonstrated crosswind is 12 kts.
+ Example:
+Given Find
+Wind direction (with respect to
+aircraft longitudinal axis) = 30°
+Wind speed = 20 kts Headwind = 17.5 kts
+Crosswind = 10 kts
+FIG. 5-3. CROSSWIND CHART
+2nd Edition, Rev. 0
+Section 5 - Performances
+CROSSWIND
+Page 5 - 8
+7. TAKE-OFF PERFORMANCES
+To account for likely in service performance variations apply a
+factored to distances of 1.10
+NOTE
+Weight = 1160 kg (2557 lb)
+Corrections
+Flaps: T/O
+Headwind: - 10 m (33 ft) for each kn
+Speed at Lift-Off = 60 KIAS
+Tailwind: +20 m (66 ft) for each kn
+Speed Over 50ft Obstacle = 65 KIAS
+Grass Runway: + 10% to Ground Roll
+Throttle Lever: Full Forward
+Runway slope: +10% to Ground Roll for each +1%
+Runway: Paved Runway
+Distance [m]
+Pressure
+(Distance [ft])
+Altitude
+Temperature [°C]
+[ft] -25 0 25 50
+ISA
+Ground Roll 291
+(955)
+366
+(1201)
+451
+(1480)
+548
+(1798)
+416
+(1365)
+S.L.
+At 50 ft AGL 442
+(1450)
+552
+678
+818
+626
+(1811)
+(2224)
+(2684)
+(2054)
+Ground Roll 317
+(1040)
+399
+(1309)
+492
+(1614)
+597
+(1959)
+446
+(1463)
+1000
+At 50 ft AGL 481
+(1578)
+601
+737
+890
+670
+(1972)
+(2418)
+(2920)
+(2198)
+Ground Roll 346
+(1135)
+436
+(1430)
+538
+(1765)
+652
+(2139)
+479
+(1572)
+2000
+At 50 ft AGL 523
+(1716 ft)
+655
+803
+969
+718
+(2149 ft)
+(2635 ft)
+(3179 ft)
+(2356)
+Ground Roll 378
+(1240)
+476
+(1562)
+587
+(1926)
+712
+(2336)
+515
+(1690)
+3000
+At 50 ft AGL 570
+(1870)
+713
+875
+1056
+770
+(2339)
+(2871)
+(3465)
+(2526)
+Ground Roll 413
+(1355)
+520
+(1706)
+642
+(2106)
+779
+(2556)
+553
+(1814)
+4000
+At 50 ft AGL 622
+(2041)
+778
+954
+1151
+825
+(2552)
+(3130)
+(3776)
+(2707)
+Ground Roll 452
+(1483)
+569
+(1867)
+702
+(2303)
+851
+(2792)
+595
+(1952)
+5000
+At 50 ft AGL 678
+(2224)
+848
+1041
+1256
+886
+(2782)
+(3415)
+(4121)
+(2907)
+Ground Roll 494
+(1621)
+622
+(2041)
+768
+(2520)
+932
+(3058)
+640
+(2100)
+6000
+At 50 ft AGL 740
+(2428)
+926
+1136
+1371
+951
+(3038)
+(3727)
+(4498)
+(3120)
+2nd Edition, Rev. 0
+Section 5 - Performances
+TAKE-OFF PERFORMANCES
+Page 5 - 9
+Weight = 1060 kg (2337 lb)
+Corrections
+Flaps: T/O
+Headwind: - 10 m (33 ft) for each kn
+Speed at Lift-Off = 60 KIAS
+Tailwind: + 20 m (66 ft) for each kn
+Speed Over 50ft Obstacle = 65 KIAS
+Grass Runway: + 10% to Ground Roll
+Throttle Lever: Full Forward
+Runway slope: +10% to Ground Roll for each +1%
+Runway: Paved Runway
+Distance [m]
+Pressure
+(Distance [ft])
+Altitude
+Temperature [°C]
+[ft] -25 0 25 50
+ISA
+Ground Roll 234
+(768)
+295
+(968)
+364
+(1194)
+441
+(1447)
+335
+(1099)
+S.L.
+At 50 ft AGL 358
+(1178)
+448
+549
+663
+507
+(1470)
+(1801)
+(2175)
+(1663)
+Ground Roll 255
+(837)
+321
+(1053)
+397
+(1302)
+481
+(1578)
+359
+(1178)
+1000
+At 50 ft AGL 389
+(1276)
+487
+598
+721
+543
+(1598)
+(1962)
+(2365)
+(1781)
+Ground Roll 279
+(915)
+351
+(1152)
+433
+(1421)
+525
+(1722)
+386
+(1266)
+2000
+At 50 ft AGL 424
+(1391)
+530
+651
+785
+582
+(1739)
+(2136)
+(2575)
+(1909)
+Ground Roll 304
+(997)
+383
+(1257)
+473
+(1552)
+574
+(1883)
+414
+(1358)
+3000
+At 50 ft AGL 462
+(1516)
+578
+709
+856
+624
+(1896)
+(2326)
+(2808)
+(2047)
+Ground Roll 333
+(1092)
+419
+(1375)
+517
+(1696)
+627
+(2057)
+445
+(1460)
+4000
+At 50 ft AGL 504
+(1654)
+630
+773
+933
+669
+(2067)
+(2536)
+(3061)
+(2195)
+Ground Roll 364
+(1194)
+458
+(1503)
+565
+(1854)
+686
+(2251)
+479
+(1572)
+5000
+At 50 ft AGL 549
+(1801)
+687
+843
+1018
+718
+(2254)
+(2766)
+(3340)
+(2356)
+Ground Roll 398
+(1306)
+501
+(1644)
+619
+(2031)
+750
+(2461)
+515
+(1690)
+6000
+At 50 ft AGL 600
+(1968)
+750
+921
+1111
+770
+(2461)
+(3022)
+(3645)
+(2526)
+2nd Edition, Rev. 0
+Section 5 - Performances
+TAKE-OFF PERFORMANCES
+Page 5 - 10
+Weight = 960 kg (2116 lb)
+Corrections
+Flaps: T/O
+Headwind: - 10 m (33 ft) for each kn
+Speed at Lift-Off = 60 KIAS
+Tailwind: + 20 m (66 ft) for each kn
+Speed Over 50ft Obstacle = 65 KIAS
+Grass Runway: + 10% to Ground Roll
+Throttle Lever: Full Forward
+Runway slope: +10% to Ground Roll for each +1%
+Runway: Paved Runway
+Distance [m]
+Pressure
+(Distance [ft])
+Altitude
+Temperature [°C]
+[ft] -25 0 25 50
+ISA
+Ground Roll 185
+(607)
+232
+(761)
+287
+(942)
+348
+(1142)
+264
+(866)
+S.L.
+At 50 ft AGL 284
+(932)
+355
+436
+526
+402
+(1165)
+(1430)
+(1726)
+(1319)
+Ground Roll 201
+(659)
+253
+(830)
+313
+(1027)
+379
+(1243)
+283
+(928)
+1000
+At 50 ft AGL 309
+(1014)
+387
+474
+572
+431
+(1270)
+(1555)
+(1877)
+(1414)
+Ground Roll 220
+(722)
+277
+(909)
+341
+(1119)
+414
+(1358)
+304
+(997)
+2000
+At 50 ft AGL 337
+(1106)
+421
+516
+623
+462
+(1381)
+(1693)
+(2044)
+(1516)
+Ground Roll 240
+(787)
+302
+(991)
+373
+(1224)
+452
+(1483)
+327
+(1073)
+3000
+At 50 ft AGL 367
+(1204)
+459
+563
+679
+495
+(1506)
+(1847)
+(2228)
+(1624)
+Ground Roll 262
+(860)
+330
+(1083)
+407
+(1335)
+494
+(1621)
+351
+(1152)
+4000
+At 50 ft AGL 400
+(1312)
+500
+613
+740
+531
+(1640)
+(2011)
+(2428)
+(1742)
+Ground Roll 287
+(942)
+361
+(1184)
+446
+(1463)
+541
+(1775)
+378
+(1240)
+5000
+At 50 ft AGL 436
+(1430)
+546
+669
+807
+570
+(1791)
+(2195)
+(2648)
+(1870)
+Ground Roll 314
+(1030)
+395
+(1296)
+488
+(1601)
+592
+(1942)
+406
+(1332)
+6000
+At 50 ft AGL 476
+(1562)
+595
+730
+881
+611
+(1952)
+(2395)
+(2890)
+(2005)
+2nd Edition, Rev. 0
+Section 5 - Performances
+TAKE-OFF PERFORMANCES
+Page 5 - 11
+8. TAKE-OFF RATE OF CLIMB
+To account for likely in service performance variations apply a
+factored to rate of climb of 0.90
+NOTE
+Throttle Lever: Full Forward
+Flaps: Take-Off
+Climb
+Rate of Climb [ft/min]
+Weight Pressure
+Altitude
+Speed
+Vy
+Temperature [°C]
+[kg]
+([lb]) [ft] [KIAS] -25 0 25 50
+ISA
+S.L. 72 1008 816 644 490 711
+2000 72 862 673 504 352 596
+4000 72 716 531 365 216 482
+1160
+(2557)
+6000 72 571 389 226 79 368
+8000 72 427 247 87 -57 253
+10000 72 283 107 -51 -192 139
+12000 72 139 -34 -188 -327 25
+14000 72 -4 -174 -325 -462 -90
+S.L. 72 1162 956 772 606 843
+2000 72 1005 803 622 459 721
+4000 72 849 650 472 312 598
+1060
+(2337)
+6000 72 694 498 323 166 476
+8000 72 539 346 175 20 353
+10000 72 384 195 27 -125 230
+12000 72 230 45 -121 -270 108
+14000 72 77 -105 -268 -414 -15
+S.L. 71 1343 1120 920 741 997
+2000 71 1173 954 758 581 865
+4000 71 1004 788 596 422 732
+960
+(2116)
+6000 71 835 623 434 263 599
+8000 71 667 459 273 105 466
+10000 71 500 295 113 -52 333
+12000 72 333 132 -47 -209 200
+14000 72 166 -31 -207 -365 67
+2nd Edition, Rev. 0
+Section 5 - Performances
+TAKE-OFF RATE OF CLIMB
+Page 5 - 12
+9. EN-ROUTE RATE OF CLIMB
+To account for likely in service performance variations apply a
+factored to rate of climb of 0.90
+NOTE
+Throttle Lever: Full Forward
+Flaps: UP
+Climb
+Rate of Climb [ft/min]
+Weight Pressure
+Altitude
+Speed
+VY
+Temperature [°C]
+[kg]
+([lb]) [ft] [KIAS] -25 0 25 50
+ISA
+S.L. 82 1070 885 720 571 784
+2000 82 929 747 585 439 674
+4000 82 789 610 451 307 564
+1160
+(2557)
+6000 82 649 474 317 176 454
+8000 82 510 338 184 45 344
+10000 82 372 202 51 -85 234
+12000 82 233 67 -82 -215 123
+14000 82 95 -68 -213 -345 13
+S.L. 81 1222 1023 846 686 914
+2000 81 1071 875 701 544 796
+4000 81 920 728 557 402 678
+1060
+(2337)
+6000 81 770 581 413 261 560
+8000 81 620 435 270 120 441
+10000 81 471 289 127 -20 323
+12000 81 323 144 -16 -159 205
+14000 81 175 -1 -157 -299 86
+S.L. 81 1400 1184 992 818 1066
+2000 81 1236 1024 835 664 938
+4000 81 1073 864 678 510 810
+960
+(2116)
+6000 81 910 705 522 357 681
+8000 81 747 546 366 204 553
+10000 80 585 388 211 52 424
+12000 80 424 230 57 -99 296
+14000 80 263 73 -97 -250 168
+2nd Edition, Rev. 0
+Section 5 - Performances
+EN-ROUTE RATE OF CLIMB
+Page 5 - 13
+10. CRUISE PERFORMANCE
+Weight: 1160 kg (2557 lb)
+Corrections
+Mixture: FULL RICH
+Best Power: -10% to Full Rich F.C.
+Best Economy: -20% to Full Rich F.C.
+CORRECTIONS
+KTAS Fuel
+Consumption Endurance Range Specific
+Range
+For each +15 °C of OAT -2% -2.5% +2% +1% +1%
+For each -15 °C of OAT +1% +3% -4% -2% -1%
+For -100 kg (-220 lb) of weight +3.3% - - +3% +4%
+CRUISE PERFORMANCE
+Fuel
+Specific
+Pressure
+OAT
+Consumption
+Endurance
+Range
+Range
+Altitude
+ISA
+RPM KTAS
+gal/hr (l/hr)
+hr:mm
+nm
+nm/gal
+ft
+deg C
+(nm/l)
+0 15 2700 137 16.6 (62.7) 3:40 502 8.3 (2.2)
+2600 131 15.3 (57.8) 3:59 521 8.6 (2.3)
+2500 125 14.1 (53.4) 4:18 538 8.8 (2.3)
+2400 119 13.1 (49.4) 4:39 553 9.1 (2.4)
+2200 107 11.3 (42.8) 5:22 573 9.4 (2.5)
+2000 11 2700 136 15.9 (60.1) 3:50 521 8.6 (2.3)
+2600 130 14.7 (55.6) 4:08 538 8.9 (2.3)
+2500 124 13.6 (51.5) 4:28 554 9.1 (2.4)
+2400 118 12.6 (47.9) 4:48 567 9.3 (2.5)
+2200 106 11.0 (41.8) 5:30 583 9.6 (2.5)
+4000 7 2700 135 15.2 (57.7) 3:59 540 8.9 (2.3)
+2600 129 14.1 (53.5) 4:18 556 9.1 (2.4)
+2500 123 13.1 (49.8) 4:37 570 9.4 (2.5)
+2400 117 12.3 (46.4) 4:57 581 9.6 (2.5)
+2200 105 10.8 (40.9) 5:37 592 9.7 (2.6)
+2nd Edition, Rev. 2
+Section 5 - Performances
+CRUISE PERFORMANCE
+Page 5 - 14
+Weight: 1160 kg (2557 lb)
+Corrections
+Mixture: FULL RICH
+Best Power: -10% to Full Rich F.C.
+Best Economy: -20% to Full Rich F.C.
+CORRECTIONS
+KTAS Fuel
+Consumption Endurance Range Specific
+Range
+For each +15 °C of OAT -2% -2.5% +2% +1% +1%
+For each -15 °C of OAT +1% +3% -4% -2% -1%
+For -100 kg (-220 lb) of weight +3.3% - - +3% +4%
+CRUISE PERFORMANCE
+Fuel
+Specific
+Pressure
+OAT
+Consumption
+Endurance
+Range
+Range
+Altitude
+ISA
+RPM KTAS
+gal/hr (l/hr)
+hr:mm
+nm
+nm/gal
+ft
+deg C
+(nm/l)
+6000 3 2600 128 13.6 (51.6) 4:27 573 9.4 (2.5)
+2500 122 12.7 (48.2) 4:47 585 9.6 (2.5)
+2400 116 11.9 (45.1) 5:06 594 9.8 (2.6)
+2200 104 10.6 (40.1) 5:44 598 9.8 (2.6)
+8000 -1 2600 128 13.2 (49.9) 4:37 588 9.7 (2.6)
+2500 122 12.3 (46.7) 4:55 598 9.8 (2.6)
+2400 116 11.6 (44.0) 5:14 605 9.9 (2.6)
+2200 104 10.4 (39.5) 5:49 603 9.9 (2.6)
+10000 -5 2600 127 12.8 (48.3) 4:46 603 9.9 (2.6)
+2500 121 12.0 (45.5) 5:04 610 10.0 (2.7)
+2400 115 11.4 (43.0) 5:21 614 10.1 (2.7)
+2200 103 10.3 (39.0) 5:54 606 10.0 (2.6)
+12000 -9 2500 120 11.7 (44.4) 5:11 621 10.2 (2.7)
+2400 114 11.1 (42.1) 5:28 621 10.2 (2.7)
+2200 102 10.2 (38.5) 5:59 608 10.0 (2.6)
+2nd Edition, Rev. 2
+Section 5 - Performances
+CRUISE PERFORMANCE
+Page 5 - 15
+11. LANDING PERFORMANCES
+To account for likely in service performance variations apply a
+factored to distances of 1.67
+NOTE
+Weight = 1160 kg (2557 lb)
+Corrections
+Flaps: LAND
+Headwind: - 4 m (-13 ft) for each kn
+Short Final Approach Speed = 66 KIAS
+Tailwind: + 13 m(+43 ft) for each kn
+Throttle Lever: Idle
+Grass Runway: +10% to Ground Roll
+Runway: Paved
+Runway slope: - 3% to Ground Roll for each +1%
+Distance [m]
+Pressure
+(Distance [ft])
+Altitude
+Temperature [°C]
+[ft] -25 0 25 50
+ISA
+Ground Roll 204
+(669)
+225
+(738)
+245
+(804)
+266
+(873)
+237
+(778)
+S.L.
+At 50 ft AGL 488
+(1601)
+509
+529
+550
+521
+(1670)
+(1736)
+(1804)
+(1709)
+Ground Roll 212
+(696)
+233
+(764)
+254
+(833)
+276
+(906)
+244
+(801)
+1000
+At 50 ft AGL 496
+(1627)
+517
+538
+560
+528
+(1696)
+(1765)
+(1837)
+(1732)
+Ground Roll 220
+(722)
+242
+(794)
+264
+(866)
+286
+(938)
+251
+(823)
+2000
+At 50 ft AGL 504
+(1654)
+526
+548
+570
+535
+(1726)
+(1798)
+(1870)
+(1755)
+Ground Roll 228
+(748)
+251
+(823)
+274
+(899)
+297
+(974)
+259
+(850)
+3000
+At 50 ft AGL 512
+(1680)
+535
+558
+581
+543
+(1755)
+(1831)
+(1906)
+(1781)
+Ground Roll 236
+(774)
+260
+(853)
+284
+(932)
+308
+(1010)
+267
+(876)
+4000
+At 50 ft AGL 520
+(1706)
+544
+568
+592
+551
+(1785)
+(1864)
+(1942)
+(1808)
+Ground Roll 245
+(804)
+270
+(886)
+295
+(968)
+320
+(1050)
+275
+(902)
+5000
+At 50 ft AGL 529
+(1736)
+554
+579
+604
+559
+(1818)
+(1900)
+(1982)
+(1834)
+Ground Roll 255
+(837)
+280
+(919)
+306
+(1004)
+332
+(1089)
+284
+(932)
+6000
+At 50 ft AGL 539
+(1768)
+564
+590
+616
+568
+(1850)
+(1936)
+(2021)
+(1864)
+2nd Edition, Rev. 0
+Section 5 - Performances
+LANDING PERFORMANCES
+Page 5 - 16
+12. BALKED LANDING PERFORMANCE
+To account for likely in service performance variations apply a
+factored to rate of climb and to angle of climb of 0.90
+NOTE
+Throttle Lever: Full Forward
+Flaps: LAND
+Speed: 67 KIAS
+Steady Gradient of Climb [%]
+Weight Pressure
+Altitude
+Temperature [°C]
+[kg]
+([lb]) [ft] -25 0 25 50
+ISA
+S.L. 11.5 8.6 6 3.6 7
+1000 10.4 7.5 4.9 2.6 6.1
+2000 9.3 6.4 3.9 1.6 5.3
+1160
+(2557)
+3000 8.2 5.3 2.8 0.5 4.4
+4000 7.1 4.3 1.8 -0.5 3.5
+5000 6 3.2 0.7 -1.5 2.7
+6000 4.9 2.1 -0.3 -2.6 1.8
+7000 3.8 1.1 -1.4 -3.6 0.9
+S.L. 13.6 10.4 7.6 5 8.7
+1000 12.4 9.2 6.4 3.9 7.7
+2000 11.2 8 5.3 2.7 6.8
+1060
+(2337)
+3000 10 6.9 4.1 1.6 5.8
+4000 8.8 5.7 2.9 0.5 4.9
+5000 7.6 4.5 1.8 -0.7 3.9
+6000 6.4 3.3 0.6 -1.8 3
+7000 5.2 2.2 -0.5 -2.9 2
+S.L. 16 12.5 9.4 6.6 10.6
+1000 14.7 11.2 8.1 5.3 9.6
+2000 13.4 9.9 6.8 4 8.5
+960
+(2116)
+3000 12 8.6 5.6 2.8 7.5
+4000 10.7 7.3 4.3 1.5 6.4
+5000 9.4 6 3 0.3 5.4
+6000 8.1 4.7 1.7 -1 4.3
+7000 6.7 3.4 0.5 -2.2 3.3
+2nd Edition, Rev. 0
+Section 5 - Performances
+BALKED LANDING PERFORMANCE
+Page 5 - 17
+13. NOISE DATA
+Noise level, determined in accordance with ICAO/Annex 16 6th Ed., July 2011,
+Vol. I°, Chapter 10 and 14 CFR Part 36, is 77.576 dB(A).
+NOTE: No determination has been made by the Federal Aviation Administration
+that the noise levels of this aircraft are or should be acceptable or unacceptable
+for operation at, into, or out of, any airport.
+2nd Edition, Rev. 0
+Section 5 - Performances
+NOISE DATA
+Page 5 - 18
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 5 - Performances
+Page 6 - 1
+SECTION 6 – WEIGHT AND BALANCE
+INDEX
+1. INTRODUCTION ............................................................................... 3
+2. WEIGHING PROCEDURES ................................................................ 4
+2.1. Preparation ................................................................................ 4
+2.2. Levelling .................................................................................... 4
+2.3. Weighing .................................................................................... 4
+2.4. Determination of C.G. location ................................................. 4
+2.5. Weighing record......................................................................... 5
+2.6. Weighing record (II) ................................................................... 6
+3. WEIGHTS AND C.G. .......................................................................... 7
+3.1. C.G. CALCULATION SAMPLES ..................................................... 8
+3.1.1. FULL FUEL ................................................................................. 8
+3.1.2. FULL PAYLOAD .......................................................................... 8
+4. BAGGAGE LOADING ........................................................................ 9
+5. EQUIPMENT LIST ........................................................................... 11
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+INDEX
+Page 6 - 2
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+Page 6 - 3
+1. INTRODUCTION
+This section describes the procedure for establishing the basic empty weight and
+the moment of the aircraft. Loading procedure information is also provided.
+NOTE
+Aircraft must be operated in accordance with the limits con-
+cerning the maximum takeoff weight and CG excursion as re-
+ported in Flight Manual Section 2.
+Pilot is responsible for checking the weight and CG excursion are compliant with
+the related limits. CG excursion and weight limits are reported in Section 2 – Lim-
+itations.
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+INTRODUCTION
+Page 6 - 4
+2. WEIGHING PROCEDURES
+2.1. PREPARATION
+- Carry out weighing procedure inside closed hangar
+- Remove from cabin any object unintentionally left
+- Make sure Flight Manual and mandatory documents are on board
+- Align nose wheel
+- Drain fuel via the specific drain valve
+- Oil and hydraulic fluid at the operating levels
+- Move sliding seats to most forward position
+- Raise flaps to fully retracted position
+- Place control surfaces in neutral position
+- Place scales (min. capacity 300 kg (661.4 lb)) under each wheel
+2.2. LEVELLING
+- Level the aircraft (the reference for longitudinal levelling is made putting a
+spirit-level on the cabin floor as shown in the Aircraft Maintenance Manual).
+- Adjust longitudinal attitude deflating nose tire
+2.3. WEIGHING
+- Record weight shown on each scale
+- Repeat weighing procedure three times
+- Calculate empty weight
+2.4. DETERMINATION OF C.G. LOCATION
+- Drop a plumb bob tangent to the wing leading edge and trace a reference mark
+on the floor (see Figure on Para. 2.5 or 2.6)
+- Repeat the operation for other wing
+- Stretch a taught line between the two marks
+- Measure the distance between the reference line and both main and nose wheel
+axis (A and B distances respectively)
+- Using recorded data it is possible to determine the aircraft C.G. location and the
+aircraft moment (see following table)
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+WEIGHING PROCEDURES
+Page 6 - 5
+2.5. WEIGHING RECORD
+Model P2010 S/N:________ Weighing no. ____ Date:_________
+Datum: leading edge vertical
+DATUM
+BALANCE NLG BALANCE LH/RH
+B A
+kg or lbs meters or feet
+Nose wheel weight W1
+= Plumb bob distance LH wheel AL
+=
+LH wheel weight WL
+= Plumb bob distance RH wheel AR
+=
+RH wheel weight WR
+= Average distance (AL+ AR)/2 A =
+W2 = WL+WR = Plumb bob distance from nose wheel B =
+Empty weight We = W1 + W2 = [kg] or [lbs]
+BWAW
+
+13
+D )
+2
+( 1
+()
+13
+
+We
+
+[m] or [ft]
+D
+% D
+ 100
+378 .1
+Empty weight moment: M = (D .We) = [m . kg] or [ft . lbs]
+Maximum takeoff weight WT = [kg] or [lbs]
+Signature
+Empty weight We = [kg] or [lbs]
+Max. useful load WT - We Wu = [kg] or [lbs]
+____________
+__________
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+WEIGHING PROCEDURES
+Page 6 - 6
+2.6. WEIGHING RECORD (II)
+Model P2010 S/N:________ Weighing no. ____ Date:_________
+Datum: leading edge vertical
+DATUM
+BALANCE NLG BALANCE LH/RH
+B A
+kg or lbs meters or feet
+Nose wheel weight W1
+= Plumb bob distance LH wheel AL
+=
+LH wheel weight WL
+= Plumb bob distance RH wheel AR
+=
+RH wheel weight WR
+= Average distance (AL+ AR)/2 A =
+W2 = WL+WR = Plumb bob distance from nose wheel B =
+Empty weight We = W1 + W2 = [kg] or [lbs]
+BWAW
+
+13
+D )
+2
+( 1
+()
+13
+
+We
+
+[m] or [ft]
+D
+% D
+ 100
+378 .1
+Empty weight moment: M = (D .We) = [m . kg] or [ft . lbs]
+Maximum takeoff weight WT = [kg] or [lbs]
+Empty weight We = [kg] or [lbs]
+Max. useful load WT - We Wu = [kg] or [lbs]
+Signature
+____________
+__________
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+WEIGHING PROCEDURES
+Page 6 - 7
+3. WEIGHTS AND C.G.
+C.G. position can be defined by means of the chart below.
+The pilot is responsible for ensuring the correct useful load loading.
+Figure 1
+Example
+A/C empty mass moment 188 kg*m (1360 lb*ft)
+A/C empty mass 765 kg (1687 lb)
+Occ. front seats 160 kg (353 lb)
+Occ. rear seats 140 kg (309 lb)
+Fuel 75 kg (165 lb)
+Baggage 20 kg (44 lb)
+A/C T.O. weight 1160 kg (2557 lb)
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+WEIGHTS AND C.G.
+Page 6 - 8
+3.1. C.G. CALCULATION SAMPLES
+3.1.1. FULL FUEL
+[kg] Arm [mm] Moment [kg*mm]
+Empty weight 775 (1708 lb) 309 (1,01 ft) 239475 (1726 lb*ft)
+CoG pos. 23,4%
+USEFUL LOAD
+Pilot Pilot 80 (176 lb) Baggages 133 (0,44 ft) 10640 (77 lb*ft)
+0 133 (0,44 ft) 0
+PAX 0 1057 (3,47 ft) 0
+PAX 0 1057 (3,47 ft) 0
+0 1599 (5,25 ft) 0
+Fuel (liters)*ρfuel
+240*0,72=172,8
+(381 lb) 612 (2 ft) 105754 (762 lb*ft)
+Useful load 253
+(558 lb) 460 (1,5 ft) 116394 (837 lb*ft)
+WTO 1028 (2266 lb) 347 (1,14 ft) 356219 (2583 lb*ft)
+CoG pos. 26,1%
+3.1.2. FULL PAYLOAD
+[kg] Arm [mm] Moment [kg*mm]
+Empty weight 775 (1708 lb) 309(1,01 ft) 239475 (1726 lb*ft)
+CoG pos. 23,4%
+USEFUL LOAD
+Pilot 80 (176 lb) 133 (0,44 ft) 10640 (77 lb*ft)
+Pilot 80 (176 lb) 133 (0,44 ft) 10640 (77 lb*ft)
+PAX 80 (176 lb) 1057 (3,47 ft) 84560 (278 lb*ft)
+PAX 80 (176 lb) 1057 (3,47 ft) 84560 (278 lb*ft)
+Baggages 0 1599 (5,25 ft) 0
+Fuel (liters)*ρfuel
+90*0,72=64,8
+(198 lb) 612 (2 ft) 39658 (396 lb*ft)
+Useful load 385 (849 lb) 598 (1,96 ft) 230058 (1664 lb*ft)
+WTO 1160 (2557 lb) 405 (1,33 ft) 469883 (3401 lb*ft)
+CoG pos. 30,3%
+ρfuel = density of fuel
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+C.G. CALCULATION SAMPLES
+Page 6 - 9
+4. BAGGAGE LOADING
+The baggage loading in the dedicated compartment must be carried out in accord-
+ance with diagram addressed on PAR. 03 and with C.G. excursion and weight lim-
+itations reported in Section 2.
+Pilot is provided with a red tie-down net and snap fasteners allowing for securing
+the loads on the compartment floor.
+Loading the baggage, make sure that you correctly stretched
+the net which must be secured to the four vertices of the floor.
+CAUTION
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+BAGGAGE LOADING
+Page 6 - 10
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+Page 6 - 11
+5. EQUIPMENT LIST
+The following is a list of equipment which may be installed in the P2010.
+The items marked with an "X" were installed on the airplane described at the be-
+ginning of the list and they are included in the Basic Empty Weight.
+It is the owner’s responsibility to retain this equipment list and amend it to reflect
+changes in equipment installed in this airplane.
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+EQUIPMENT LIST
+Page 6 - 12
+EQUIPMENT LIST AIRCRAFT S/N
+_____
+DATE:
+WEIGHT
+ARM
+REF. DESCRIPTION P/N INST
+[kg]
+[m]
+([lb])
+([ft])
+INSTRUMENTATION
+A1 GARMIN G1000 IFDS
+A2 MD 302 MID Continent 6420302-1 0.73
+(1.61)
+-0.69
+(-2.26)
+A3 Compass C2400L4P 0.4
+(0.88)
+-0.69
+(-2.26)
+A4 Pitch trim indicator – UMA instruments N0911S0U2DR00W 0.1
+(0.22)
+-0.69
+(-2.26)
+A5 Digital Clock - Davtron M800-28V-BAT 0.1
+(0.22)
+-0.69
+(-2.26)
+A6 GARMIN G500
+A7 GTN 650 (Com/Nav/Gps) 011-02256-00 2.48 -0.69
+A8 GNC 255A (Com/Nav) 011-02719-00 1.37 -0.69
+A9 GMA 340 (Audio Panel) 011-00401-10 0.60 -0.69
+A10 DME Indicator - KDI 572 066-01069-0000 0.36 -0.69
+A11 ADF system - KR 87 006-00184-XXX 1.47 -0.69
+A12 JP Instruments EDM 930 790000-c-[XXX] 1.36 -0.69
+A13 Remote Alarm Display (RAD) 790749 0.1 0.69
+A14 Rudder trim indicator N0911R0L2R000W 0.1 -0.69
+AVIONICS & MISCELLANEOUS
+ELT-ACK E-04 0.73
+(1.61)
+1.61
+(5.28)
+B1
+ELT Kannad 406 AF 1.10
+(2.42)
+1.61
+(5.28)
+Front seats TECNAM
+210-10-5100-801 (LH)
+210-10-5101-801 (RH)
+10x2 = 20
+(22x2 = 44)
+0.50
+(1.64)
+B2
+Front seats GEVEN
+E5-01-009-T03 (LH)
+E5-01-010-T03 (RH)
+10x2 = 20
+(22x2 = 44)
+0.50
+(1.64)
+Rear seats TECNAM
+210-10-5300-801 (LH)
+210-10-5400-801 (RH)
+9x2 = 18
+(20x2 = 40)
+1.26
+(4.13)
+B3
+Rear seats GEVEN
+E5-01-009-T03 (LH)
+E5-01-010-T03 (RH)
+10x2 = 20
+(22x2 = 44)
+1.26
+(4.13)
+Fire extinguisher 13-07655 0.8
+(1.76)
+-0.18
+(-0.59)
+B4
+Fire extinguisher A344T 1.0
+(2.3)
+-0.18
+(-0.59)
+B5 First aid kit FIA270160 0.2
+(0.44)
+0.5
+(1.64)
+B6 Torch ---------
+1
+(2.2)
+-0.18
+(-0.59)
+B7 Battery GILL247- 24V -19Ah G247 19.3
+(42.5)
+3.05
+(10.01)
+B8 Fuel qty sender – Electronics international P-300C 0.15
+(0.33)
+0.5
+(1.64)
+2nd Edition, Rev. 2
+Section 6 – Weight and Balance
+EQUIPMENT LIST
+Page 6 - 13
+EQUIPMENT LIST AIRCRAFT S/N
+_____
+DATE:
+WEIGHT
+ARM
+REF. DESCRIPTION P/N INST
+[kg]
+[m]
+([lb])
+([ft])
+Fuel qty sender 210-7-1160-801 0.31
+(0.68)
+0.5
+(1.64)
+B9 ADF Receiver – RA 3502 0505.757-912 1.5
+(3.3)
+3.05
+(10.01)
+B10 DME Transceiver - King KN 63 066-01070-0001 2
+(4.4)
+3.05
+(10.01)
+LIGHTS:
+B11 Nav/POS/Strobe Light SH wing - Ultragalactica Aveo AVE-WPST R/G-54G 1
+(2.2)
+0.23
+(0.75)
+B12 Rudder Nav Light – PosiStrobe CT AVE-POSW-62G 1
+(2.2)
+5.5
+(18.04)
+B13 Landing/Taxy Light - WHELEN Mod 7167400 01-0771674-00 2
+(4.4)
+-1.52
+(-4.99)
+PITOT STATIC:
+Pitot (Heated) - Falcon Gauge 24-AN5812-1 3
+(6.6)
+0.5
+(1.64)
+B14
+Garmin Gap26 Pitot Tubes 26-9-8032-000 3
+(6.6)
+0.5
+(1.64)
+GARMIN GFC700 Autopilot:
+B15 Servo pitch GSA 80 011-00877-20 1.44 5.3
+B16 Servo roll GSA 80 011-00877-20 1.44 2.05
+B17 Servo pitch trim GSA 81 011-00878-20 1.03 5.3
+LANDING GEAR ACCESSORIES
+C1 Nose Landing Gear Wheel Fairing 210-4-3001-401 1.2
+(2.6)
+-1.48
+(-4.86)
+C2 Main Landing Gear Wheel Fairings 210-4-1020-001-L/R 1.5x2 = 3
+(3.3x2 = 6.6)
+0.66
+(2.17)
+2nd Edition, Rev. 2
+Section 6 – Weight and Balance
+EQUIPMENT LIST
+Page 6 - 14
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 6 – Weight and Balance
+Page 7 - 1
+SECTION 7 – AIRFRAME AND SYSTEMS DESCRIPTION
+INDEX
+1. INTRODUCTION ........................................................................... 2
+2. AIRFRAME .................................................................................... 2
+2.1. Wing ............................................................................................................. 2
+2.2. Fuselage ...................................................................................................... 3
+2.3. Empennages ................................................................................................ 3
+2.3.1. Horizontal Tail ............................................................................................. 3
+2.3.1. Rudder Surface ............................................................................................ 4
+2.4. Main Landing gear ....................................................................................... 5
+2.5. Nose landing gear ........................................................................................ 7
+3. FLIGHT CONTROLS ..................................................................... 8
+4. INSTRUMENT PANEL .................................................................. 9
+4.1. Engine control lever .................................................................................. 10
+4.2. Alternate Air .............................................................................................. 11
+4.3. Defrost and Cabin Heat ............................................................................. 11
+5. SEATS AND SAFETY HARNESS ................................................ 13
+6. DOORS ....................................................................................... 14
+7. POWERPLANT ............................................................................ 16
+7.1. ENGINE ...................................................................................................... 16
+7.2. PROPELLER ............................................................................................... 16
+8. FUEL SYSTEM ............................................................................ 18
+9. ELECTRICAL SYSTEM ............................................................... 20
+9.1. Stall Warning System ................................................................................ 21
+9.2. Avionics ..................................................................................................... 22
+9.3. External Power Supply .............................................................................. 23
+10. PITOT-STATIC PRESSURE SYSTEMS ....................................... 24
+11. LIGHTS ....................................................................................... 26
+11.1. External lights ........................................................................................... 26
+11.2. Internal lights ............................................................................................ 27
+12. PLACARDS ................................................................................. 28
+12.1. External Placards ...................................................................................... 28
+12.2. Internal Placards ....................................................................................... 32
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+INDEX
+Page 7 - 2
+1. INTRODUCTION
+This section provides description and operation of the aircraft and its systems.
+2. AIRFRAME
+P2010’s airframe can be divided in the following main groups, as highlighted below on fig-
+ure 7-1:
+1) Wing
+2) Fuselage
+3) Empennage
+4) Landing gear
+3
+1
+2
+4
+Fig. 7-1. P2010 AIRFRAME
+2.1. WING
+Each wing is connected to the fuselage by means of two bolt attachments and a single strut
+brace per side. The wings are made up of a central light alloy torsion box; a light alloy lead-
+ing edge is attached to the front spar whereas the flap (“slotted”) and the aileron (“frise”) are
+attached to a rear spar through two hinges each.
+The torsion box consists of a front and rear spar that represent its front and rear vertical
+walls; a series of ribs and wrap-around panels complete the structure. Front and rear spars
+are integrated with wing-fuselage attachment fittings.
+Integral fuel tanks are located in the wing box, behind the main spar, with a capacity of 120
+litres each (31,7 gallons).
+The ailerons and flaps are made by an aluminium spar attached to a formed sheet metal
+leading edge and metal ribs; an aluminium skin surrounds the aileron structure.
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+AIRFRAME
+Page 7 - 3
+2.2. FUSELAGE
+The P2010 fuselage is mainly made by carbon fibres composite materials.
+The fuselage is made by two main shells that are later assembled bonding the two main bod-
+ies and the floor (composite) and adding aluminium parts that allow the connection of the
+main landing gear, seats, wing and instrument panel.
+Fuselage and vertical fin are thus a unique body.
+2.3. EMPENNAGES
+2.3.1. HORIZONTAL TAIL
+The horizontal tail is an all-moving type; the stabilizer and elevator form a single uniform
+plane called stabilator that rotates to the desired pitch setting.
+The stabilator structure (see Figure 7-2) is made-up by two aluminium spar and ribs.
+Aluminium skin panels are riveted to the above elements.
+A trim tab provides stick force adjustment and longitudinal compensation through a control
+wheel located between pilot and co-pilot seats.
+Front Spar
+Nose
+Rib
+Rib
+Trim-Tab
+Rear Spar
+Fig. 7-2.STABILATOR STRUCTURE
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+AIRFRAME
+Page 7 - 4
+2.3.1. RUDDER SURFACE
+The rudder structure is made-up by a single aluminium spar (1) and ribs (2). Aluminium
+skin panels (3) are riveted to the above elements. It is connected to the fin through two hing-
+es; at the lower hinge a bellcrank (4) is connected for the movement transmission.
+A trim tab (5) provides stick force adjustment and lateral compensation through a rocker
+switch located between pilot and co-pilot seats.
+1
+3
+2
+5
+4
+Fig. 7-3. RUDDER STRUCTURE
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+AIRFRAME
+Page 7 - 5
+2.4. MAIN LANDING GEAR
+The main landing gear consists of two steel leaf-springs positioned crossways to the fuse-
+lage.
+Fig. 7-4. MAIN LANDING GEAR STRUCTURE
+The steel leaf-springs are attached to the fuselage structure on composite beams.
+Wheels are cantilevered on gear struts and feature hydraulically actuated disc brakes con-
+trolled by toe. Main gear wheels install type 6.00-6 tires inflated at 36 psi (2.5 bar).
+P2010 is provided with an independent hydraulically actuated brake system for each main
+wheel. A master cylinder is attached to each pilot’s rudder pedal. Hydraulic pressure, ap-
+plied via the master cylinders, enters the brake via lines connected to an inlet fitting on the
+caliper.
+A parking brake valve, mounted in correspondence of the cabin floor and operated by a
+knob on the cockpit central pedestal, intercepts the hydraulic lines, once pressurized by toe
+brakes, to hold the brake assemblies linings tightened round the main wheels brake discs.
+Brakes can be operated from either pilot’s and co-pilot’s pedals: a single vented oil reservoir
+feeds the pilot side master cylinders which are connected, via hoses, with the co-pilot’s side
+ones.
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+AIRFRAME
+Page 7 - 6
+Left wheel brake Right wheel brake
+Left wheel brake Right wheel brake
+Master Cylinders
+Fig. 7-5. RUDDER PEDALS AND BRAKE MASTER CYLINDERS (PILOT AND CO-PILOT SIDE)
+Fig. 7-6. BRAKE SYSTEM SCHEMATIC
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+AIRFRAME
+Page 7 - 7
+2.5. NOSE LANDING GEAR
+A Pivoting nose gear is attached to the firewall reinforcement plate. The shock absorber is
+fitted on the upper machined component and directly on the nose landing gear structure.
+In Figure 10 is shown:
+1) Hydraulic shock absorber
+2) Firewall
+3) Nose wheel (5.00-5 tire, inflated at 32 PSI (2.2 BAR))
+1
+2
+3
+Fig. 7-7. NOSE LANDING GEAR
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+AIRFRAME
+Page 7 - 8
+3. FLIGHT CONTROLS
+Aircraft flight controls are operated through conventional stick and rudder pedals. Longitu-
+dinal control acts through a system of push-rods and is equipped with a trim tab. a cable
+control circuit is confined within the cabin and it is connected to a pair of push-pull rod sys-
+tems positioned in each main wing which control ailerons differentially. Aileron trimming is
+carried out on ground through a small tab positioned on left aileron.
+Flaps are extended via an electric servo actuator controlled by a switch on the instrument
+panel. Flaps act in continuous mode; the indicator displays three markings related to 0°,
+takeoff (T/O) and landing (FULL) positions. A breaker positioned on the right side of the
+instrument panel protects the electric circuit.
+The control of the stabilator trim is operated by means of a control wheel, located between
+the two front seats that acts directly on the control cables.
+Stabilator trim position is displayed on a dedicated analogue indicator located on the LH ar-
+ea of the instrument panel.
+Rudder Trimming device for lateral control is provided by means of an electrical actuator
+controlled by a rocker switch located near the pitch trim wheel; the surface is connected to a
+potentiometer linked to a rudder trim indicator included in the Garmin G1000 EIS (Engine
+Indication System).
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+FLIGHT CONTROLS
+Page 7 - 9
+4. INSTRUMENT PANEL
+The instrument panel is divided in three areas:
+ The left area holds Garmin G1000 PFD, a chronometer and the pitch trim indicator;
+ The Central area holds the standby unit for PFI parameters, MD 302 suite, and the
+ELT button.
+ The right area holds Garmin G1000 MFD and breaker panel;
+ The lower-LH portion of the instrument panel holds:
+ Ignition key;
+ Master and Generator switches;
+ Emergency fuel pump;
+ Avionic Master switch;
+ The lower-Central portion of the instrument panel holds:
+ Fuel selector valve.
+ Flap Control
+ The lower-RH portion of the instrument panel holds:
+ Pocket
+Fig. 7-8. INSTRUMENT PANEL
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+INSTRUMENT PANEL
+Page 7 - 10
+4.1. ENGINE CONTROL LEVER
+Engine handling is via three levers: Throttle, RPM lever, Mixture control lever.
+They’re situated on the center control; the use of “front/forward” and “rear/backward”
+is defined in relation to the direction of flight (longitudinal).
+Mixture control lever
+This lever (right hand lever with red handle) controls the fuel-air mixture, which is
+supplied to the engine.
+With the lever full forward, extra fuel is being supplied to the engine which at higher
+performance setting contributes to engine cooling.
+In cruise, the mixture should be made leaner in order to reach the appropriate fuel-air
+mixture. The leaning procedure is given in Chapter 4.
+Lever forward (RICH) >> Mixture rich (in fuel)
+Lever to rear (LEAN) >>Mixture lean (in fuel)
+To shut off the engine the mixture control lever is pulled to the rear stop: air without
+fuel is drawn into the cylinders that shuts down.
+Throttle
+This lever (left hand with large knob) is used to control manifold pressure (MAP).
+High manifold pressure means a large quantity of fuel-air mixture is being supplied to
+engine, while low manifold pressure means a lesser quantity of fuel-air mixture is be-
+ing supplied.
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+INSTRUMENT PANEL
+Page 7 - 11
+4.2. ALTERNATE AIR
+Alternate Air knob is located on the central pedestal; when the knob is fully pulled
+outward from the instrument panel, injectors receive maximum hot air. During normal
+operation, the knob is set in OFF position.
+4.3. DEFROST AND CABIN HEAT
+Two knobs, located on the lower side of the central pedestal, allow Defrost and Cabin
+Heat function. The one marked as “Defrost and Cabin Heat” allows hot air to perform
+windshield defrost and partially cabin heat.
+The cabin heat control knob, when fully outward, allows cabin to receive maximum
+hot air. When both cabin heat and defrost and cabin heat are pulled, air is partitioned.
+Fig. 7-9. CENTRAL PEDESTAL
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+INSTRUMENT PANEL
+Page 7 - 12
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+Page 7 - 13
+5. SEATS AND SAFETY HARNESS
+In correspondence of the seats, three fitting points safety belts are provided; belt ad-
+justment is via the sliding buckle located on the belt metal hook.
+Seats are built with light allow tube structure and synthetic material cushioning. It is
+possible to perform following seat adjustments:
+Horizontal – pulling the lower front lever and sliding the seat
+Vertical – operating the lever located on the outward seat side
+Seat back inclination – unlocking it via the lateral knob
+These adjustments ensure the crew and passengers comfort.
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+SEATS AND SAFETY HARNESS
+Page 7 - 14
+6. DOORS
+P2010 features three doors:
+The main door is placed on the left side of the cabin, while on the right side there are
+two secondary doors, one on the front side and the other on the rear, used as an
+emergency exit.
+On the right side of the cabin is located an additional door which gives access to the
+baggage compartment.
+Baggage door can be opened from the inside of the cabin, where near the rear RH
+seat a dedicated knob is located.
+Fig. 7-11. DOORS AND BAGGAGE DOOR OPENING
+“NOTE: opening of baggage compartment is only provided inside the cockpit. Occu-
+pants of rear seat shall be briefed in order to avoid unnecessary use of command by
+people seated in the rear seats”
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+DOORS
+Page 7 - 15
+The internal handle can be locked, to avoid any chance of inadvertent opening, by means of a
+hook located nearby the handle itself and upper safety block, following pictures show the
+functioning.
+Fig. 7-12. HANDLE LOCKING
+In case of rapid escapes or door handles malfunction, an emergency opening is provided on
+the rear side of the door.
+The opening is operated by means of a hook, moved forward, that bypasses the normal door
+opening.
+Fig. 7-13. EMERGENCY OPENING
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+DOORS
+Page 7 - 16
+7. POWERPLANT
+7.1. ENGINE
+Manufacturer …………………………… Lycoming Textron
+Model …………………………………... IO-360-M1A
+Type Certificate ………………………... EASA TCDS no. IM.E.032
+Engine type …………………………….. Fuel injected (IO), direct drive, four cylinder
+horizontally opposed, air cooled with down
+exhaust outlets.
+Maximum power …….
+Maximum continuous power …………...
+134.0 kW (180hp) @ 2700 rpm
+134.0 kW (180hp) @ 2700 rpm
+Oil Consumption
+Operation RPM HP Max.
+Oil Cons.
+Qts./Hr.
+*Max.
+Cyl. Head
+Temp.
+Normal Rated 2700 180 .80 500°F (260°C)
+Performance Cruise (75%) 2450 135 .45 500°F (260°C)
+Economy Cruise (60R Rated) 2350 117 .39 500°F (260°C)
+7.2. PROPELLER
+Manufacturer ………………………….. MT Propeller
+Model …………………………………. MT 188 R 145 – 4G
+Type Certificate ……………………….. EASA TCDS no. P.006
+Blades/hub …………………………….. 2 wood/composite blades – aluminium hub
+Diameter ………………………………. 1880 mm (6,17 ft) no reduction allowed
+Type …………………………………… Fixed pitch
+2nd Edition, Rev. 0
+Section 7 – Airframe and Systems description
+POWERPLANT
+Page 7 - 17
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+Page 7 - 18
+8. FUEL SYSTEM
+The fuel system is designed to supply the reciprocating engine (Lycoming IO-
+360-M1A) with the suitable flow rate and pressure according to engine limitations
+required by Lycoming operator manual.
+Following figure shows a schematic of the fuel system assy for P2010 airplane.
+LH Fuel vent
+LH Fuel qty indicator RH Fuel qty indicator
+LH Fuel tank RH Fuel tank
+RH Fuel vent
+RH Fuel sump
+LH Fuel sump
+RH
+OFF
+Fuel pressure
+indicator
+LH
+Fuel flow
+indicator
+Firewall
+Mechanical
+fuel pump
+Fuel pressure
+sensor
+Vent
+Gascolator Electric
+fuel pump
+Fuel flow
+sensor
+Vent
+Injector
+Nozzle pressure
+connection
+Fig. 7-14. FUEL SYSTEM SCHEME
+Each fuel tank is integrated within the wing box. The capacity of each tank is 120
+liters (31,7 gal.), total capacity is thus 240 liters (63.4 gal.).
+The internal side of fuel tank is accessible for inspection through 4 upper dedicat-
+ed caps.
+Two bottom inspection panels allow the inspection of vent line and tank structure.
+An anti-sloshing movable wall is located within each fuel tank, this prevents fuel
+centrifugation which is a possible cause of undesired engine shut down.
+The fuel tank filler cap is located on the top of the wing, in the area outside of the
+tank and it is easily accessible from the leading edge of the aircraft. At the lowest
+point of the tank it is positioned a drain sump.
+The engine is equipped with an engine gear pumps, mechanical (primary). An ad-
+ditional auxiliary electrical fuel pump is provided (auxiliary).
+The fuel selector is operated by a fuel selector control knob located in the cabin on
+the central panel. The fuel selector control and the fuel valve are connected via a
+rigid control rod.
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+FUEL SYSTEM
+Page 7 - 19
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+Page 7 - 20
+9. ELECTRICAL SYSTEM
+Primary DC power is provided by an external alternator with a 28 VDC output,
+rated of 70 Amps @ 2700 rpm. During normal operations, it recharges the battery.
+Secondary DC power is provided by a lead type battery (GILL G-247) which pro-
+vides the energy necessary for feeding the essential electrical loads in the event of
+an alternator failure.
+The switch between the energy sources is automatic and no action is required in
+order to activate the alternate energy source.
+For ground maintenance and/or starting, an external power socket is provided.
+The alternator and battery are connected to the battery bus in order to provide en-
+ergy for the electric equipment.
+Each electrically fed instrument is connected to a dedicated circuit breaker which
+protects the cable from the battery bus to the associated electric equipment.
+WARNING
+If the Ignition is in the position L, R, or BOTH, an accidental
+movement of the propeller may start the engine with possible dan-
+ger for bystanders.
+In the following figure is presented the electrical system architecture.
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+ELECTRICAL SYSTEM
+Page 7 - 21
+FIG.7-15. ELECTRICAL SYSTEM ARCHITECTURE
+9.1. STALL WARNING SYSTEM
+The aircraft is equipped with a stall warning system consisting of a sensor located
+on the right wing leading edge connected to a warning horn located near the in-
+strument panel.
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+ELECTRICAL SYSTEM
+Page 7 - 22
+9.2. AVIONICS
+The avionic system installed on P2010 is mainly based on the integrated avionic
+suite Garmin G1000. The installed configuration is based on a two-screen layout.
+Primary flight information are displayed on the LH screen, namely PFD (Primary
+Flight Display).
+Primary Engine and moving map information are displayed on the RH display,
+namely MFD (Multi-Function Display).
+Both communication and navigation means, including the ones provided by third
+party units (i.e. ADF and DME), are integrated within the suite and their related
+information are displayed on both PFD and MFD.
+In the event of a PFD or MFD failure the “reversionary mode” is automatically
+enabled.
+In the event of a failure of the automatic reversion logic, the pilot can force rever-
+sionary mode by pressing “reversionary mode” button marked in red and located
+on the audio-panel.
+When reversionary mode is activated primary flight and engine information are
+presented together on the remaining display.
+In order to provide the pilot with main flight information in the event of a dual
+display failure of both PFD and MFD, or in the event of an AHRS and ADC units
+combined failure, an integrated digital stand-by instrument, Mid-Continent MD-
+302, featuring airspeed, altitude, attitude and slip information is installed.
+A dedicated analogue indicator is provided for pitch trim position.
+The installed equipment is such that the aircraft is able to fly under day/night VFR
+and day/night IFR rules and to perform ILS CAT I approaches with ILS.
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+ELECTRICAL SYSTEM
+Page 7 - 23
+9.3. EXTERNAL POWER SUPPLY
+On the right side of the tail cone, an external power is present. Using this device it
+is possible to feed the electric system directly on the main bus bar, by an external
+power source. It should be used at the engine start-up in cold weather condition.
+A white advisory “EXT. POWER” label will appear on Garmin PFD display upon
+connection of external power in order to advise pilot; the label will disappear up-
+on disconnection of ground external power.
+CAUTION
+Exercise caution while applying external power.
+Exercise extreme caution while disconnecting external power with
+engine running due to airflow coming from the propeller.
+Approach the power supply receptacle from rear of the wing.
+Make a positive check, upon disconnection, that:
+- the power chord is free from any aircraft structure
+- the receptacle is firmly closed.
+Follow this procedure to start the engine using the external power source.
+1. Ignition key, Master switch, Generator switch: OFF
+2. Open the receptacle door and insert the external power source’s plug into the
+socket
+3. Engine start-up procedure (see Sect. 4 in this manual)
+4. Disconnect the external power source’s plug and close firmly the receptacle
+door.
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+ELECTRICAL SYSTEM
+Page 7 - 24
+10. PITOT-STATIC PRESSURE SYSTEMS
+The P2010 air speed/altitude indicating systems are connected with a Pitot-Static sys-
+tem based on a total pressure/Pitot probe (simple Pitot tube, heated for icing protec-
+tion) mounted on left wing strut and two static pressure ports connected in parallel
+and located in correspondence of engine firewall on left and right side of fuselage.
+Flexible hoses connects total pressure and static ports to primary analogue instru-
+ments, anemometer and altimeter.
+Garmin G1000 suite and standby MD 302 unit are connected to both static and total
+pressure lines providing both air speed and altitude information.
+ALTERNATE STATIC PORT VALVE
+ALTERNATE STATIC PORT
+GARMIN G1000
+"T" JOINT
+LH STATIC PORT RH STATIC PORT
+MD-302
+ADC
+GDC 74A
+1
+2
+4
+Legenda:
+Static line
+3
+Total line
+0°
+T/O
+LND
+FLAP
+Pos. Description
+1
+Pitot
+2
+"T" Joint
+3
+Garmin G1000 connection
+4
+MD-302
+FIG.7-16. PITOT-STATIC SYSTEM
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PITOT-STATIC PRESSURE SYSTEMS
+Page 7 - 25
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+Page 7 - 26
+11. LIGHTS
+11.1. EXTERNAL LIGHTS
+P2010 is equipped with the following external lights:
+ 2 combined LED NAV/POS/Strobe integrated lights located on RH and LH
+wing;
+ 1 POS/strobe combined light located on the rear (fixed on the rudder);
+ 1 combined LED landing and taxi light located on the lower engine cowling.
+The following schematic shows the configuration layout for external lights:
+FIG.7-17. EXTERNAL LIGHTS
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+LIGHTS
+Page 7 - 27
+11.2. INTERNAL LIGHTS
+On the cabin ceiling are located four map lights, two in the front area (pilot) and two
+in the rear area (passengers).
+In the central area of the cabin ceiling is located a spot light used to illuminate the
+pedestal during night flight operations. All ceiling lights are dimmable by a dedicat-
+ed dimmer.
+FWD
+FIG.7-18. CABIN CEILING LIGHTS LAYOUT
+The instrument panel can be illuminated by 8 incandescence light strips, all dimma-
+ble.
+From mid MAP light (ceiling)
+FIG.7-19. INSTRUMENT PANEL LIGHTS LAYOUT
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+LIGHTS
+Page 7 - 28
+12. PLACARDS
+In addition to the limitation placards reported on Section 2, following placards are
+installed on the aircraft.
+NOTE
+Additionally, nearby the placards listed below (English lan-
+guage), directly translated placards in the language of the
+country in which the airplane is registered can be installed,
+when required by the specific NAA.
+12.1. EXTERNAL PLACARDS
+Aircraft Registration Placard:
+External Power Socket and baggage compartment placards:
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 29
+Static Ports:
+Lift Point:
+Wheel Fairing “No Step”:
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 30
+Allowed Fuel Placard:
+Tire Pressure placard:
+Stabilator degrees placard:
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 31
+Emergency exit placards:
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 32
+12.2. INTERNAL PLACARDS
+Safety equipment placards:
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 33
+ELT unit position placard:
+Breaker Panel placards:
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 34
+Magnetic Compass placard:
+Battery Placard:
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 35
+Oil Filler placard:
+Emergency exit placards
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 36
+Pedestal placards:
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 37
+Fuel selector valve and Flap control knob:
+Baggage Door opening knob:
+Oil brake reservoir placard:
+A B
+A – Oil brake reservoir placard
+B – Oil brake reservoir placard if MOD2010/020 is installed
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+PLACARDS
+Page 7 - 38
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev 0
+Section 7 – Airframe and Systems description
+Page 8 - 1
+SECTION 8 – GROUND HANDLING & SERVICE
+INDEX
+1. Introduction ............................................................................. 3
+2. Aircraft Inspection Intervals................................................... 5
+3. Aircraft Changes or Repairs ................................................... 6
+4. Maintenance ............................................................................ 7
+4.1 Refuelling ................................................................................. 7
+4.2 Engine and Brakes Oil level control ....................................... 7
+4.3 Landing gear tires pressure control ....................................... 9
+5. Engine Cowling Check .......................................................... 10
+5.1 Upper cowling ....................................................................... 10
+5.2 Lower Cowling ....................................................................... 10
+6. Ground Handling .................................................................... 11
+6.1 Towing ................................................................................... 11
+6.2 Parking and Tie-Down ........................................................... 11
+6.3 Mooring .................................................................................. 13
+6.4 Jacking .................................................................................. 14
+6.5 Road Transport ...................................................................... 14
+7. Cleaning And Care ................................................................. 15
+7.1 Windows ................................................................................. 15
+7.2 External surfaces .................................................................. 15
+7.3 Propeller ................................................................................ 15
+7.4 Engine .................................................................................... 15
+7.5 Internal surfaces ................................................................... 15
+8. Ice removal ............................................................................ 16
+2nd Edition, Rev. 0
+Section 8 – Aircraft Care and Maintenance
+INDEX
+Page 8 - 2
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 8 – Aircraft Care and Maintenance
+Page 8 - 3
+1. INTRODUCTION
+This section contains factory-recommended procedures for proper ground han-
+dling and routine care and servicing. It also identifies certain inspection and
+maintenance requirements.
+It is recommended to follow a planned schedule of lubrication and preventive
+maintenance based on climatic and flying conditions encountered locally.
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+INTRODUCTION
+Page 8 - 4
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+Page 8 - 5
+2. AIRCRAFT INSPECTION INTERVALS
+Scheduled inspections must be performed in accordance with the instructions
+addressed on the Aircraft Maintenance Manual. Independently from the aircraft
+flight hours, an annual inspection has to be performed.
+All required inspections are reported in the Aircraft Maintenance Manual.
+As far as the scheduled/unscheduled engine maintenance is concerned, refer to
+the engine manufacturer Maintenance Manual.
+CAUTION
+Unscheduled inspections/maintenance tasks are necessary
+when one or more of following conditions occur:
+1. Emergency landing
+2. Breaking / damage of propeller (or in case of
+simple impact)
+3. Engine fire
+4. Lighting damage
+5. Any type of damage or failure
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+AIRCRAFT INSPECTION INTERVALS
+Page 8 - 6
+3. AIRCRAFT CHANGES OR REPAIRS
+Aircraft changes or repairs must be performed in accordance with Aircraft
+Maintenance Manual and Job cards provided by TECNAM.
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+AIRCRAFT CHANGES OR REPAIRS
+Page 8 - 7
+WARNING
+4. MAINTENANCE
+4.1 REFUELLING
+- Do not perform aircraft refuelling near flames, sparks or similar.
+- Avoid fuel contact with the skin: a skin corrosion could occur.
+- Make sure that a fire extinguisher is available nearby during refu-
+elling operations.
+- Make sure that overall aircraft instrumentation is turned OFF be-
+fore performing the refuelling.
+- Do not operate switches and/or pushbuttons inside the aircraft dur-
+ing refuelling operation; make sure that crew left the aircraft be-
+fore performing refuelling.
+- Make sure that the aircraft is electrically connected to the ground.
+4.2 ENGINE AND BRAKES OIL LEVEL CONTROL
+1. Open the engine cowling (RH)
+2. Clean the dipstick and soak it in the reservoir
+3. Remove dipstick and read oil level
+4. If required, replenish oil: oil level should be between max. and min.
+Marks shown on the dipstick
+5. Close the engine cowling
+6. Repeat for LH engine cowling side for Oil brakes level control.
+RH Engine Cowling
+FIG. 8-1. OIL CHECK
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+MAINTENANCE
+Page 8 - 8
+LH Engine Cowling
+A B
+FIG. 8-1 BIS OIL CHECK
+A – Oil brake reservoir placard
+B – Oil brake reservoir placard if MOD2010/020 is installed
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+MAINTENANCE
+Page 8 - 9
+4.3 LANDING GEAR TIRES PRESSURE CONTROL
+For each wheel proceed as follows:
+1. Remove wheel fairing
+2. Unscrew the tire cap
+3. Connect a gauge
+4. Read the pressure value
+5. If required, rectify the pressure (nose tire 2.2 Bar / 32 psi, main landing
+gear tires 2.5 Bar / 36 psi)
+6. Fit the tire cap
+7. Install wheel fairing
+FIG. 8-2. TIRE PRESSURE PLACARDS
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+MAINTENANCE
+Page 8 - 10
+5. ENGINE COWLING CHECK
+5.1 UPPER COWLING
+1. Parking brake: ON
+2. Fuel selector valve: OFF
+3. Ignition key: OFF
+4. Generator & Master switches: OFF
+5. Unlatch all four butterfly Cam-locks mounted on the cowling by rotat-
+ing them 90° counter clockwise while slightly pushing inwards.
+6. Remove engine cowling paying attention to propeller shaft passing
+through nose.
+7. To assemble: rest cowling horizontal insuring proper fitting of nose
+base reference pins.
+8. Secure latches by applying light pressure, check for proper assembly
+and fasten Cam-locks.
+Butterfly Cam-locks are locked when tabs are horizontal and open
+when tabs are vertical. Verify tab is below latch upon closing.
+WARNING
+5.2 LOWER COWLING
+1. After disassembling upper cowling, move the propeller to a horizontal
+position.
+2. Using a standard screwdriver, press and rotate 90° the two Cam-locks
+positioned on lower cowling by the firewall.
+3. Disconnect the ram-air duct from the NACA intake. Pull out the first
+hinge pin positioned on the side of the firewall, then, while holding
+cowling, pull out second hinge pin; remove cowling with downward
+motion.
+4. For installation follow reverse procedure.
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+ENGINE COWLING CHECK
+Page 8 - 11
+6. GROUND HANDLING
+6.1 TOWING
+The aircraft is most easily and safely maneuvered by hand by pushing on wing
+struts near attachments or by pulling it by its propeller near the axle. A tow bar
+can be fixed onto nose gear fork. Aircraft may be steered by turning rudder or,
+for steep turns, by pushing lightly on tail cone to lift nose wheel.
+6.2 PARKING AND TIE-DOWN
+General
+Under normal weather conditions, the airplane may be parked and headed in a di-
+rection that will facilitate servicing without regard to prevailing winds. Ensure
+that it is sufficiently protected against adverse weather conditions and present no
+danger to other aircraft.
+Procedure
+1. Position airplane on levelled surface, headed into the prevailing wind, if prac-
+tical.
+2. Engage parking brake
+3. Secure pilot control wheel by wrapping the seat belt around it
+Do not engage the parking brakes at low ambient temperature,
+when an accumulation of moisture may cause the brakes to freeze,
+or when they become hot from severe use. In this case use wheel
+chocks.
+In case of long time parking or overnight parking, it is recommended to moor the
+a/c as shown on Para.6.3.
+Mooring is strongly recommended when the wind is more than 15 knots
+and the a/c is completely refuelled.
+CAUTION
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+GROUND HANDLING
+Page 8 - 12
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+Page 8 - 13
+6.3 MOORING
+The aircraft is moored to insure its immovability, protection, and security under
+various weather conditions.
+Mooring is strongly recommended when the wind is more than 15 knots
+and the a/c is completely refuelled.
+CAUTION
+Procedure
+practical
+1. Position airplane on levelled surface and headed into the prevailing wind, if
+2. Centre nose wheel and engage parking brake and/or use the wheel chocks
+Do not engage the parking brakes at low ambient temperature,
+when an accumulation of moisture may cause the brakes to freeze,
+or when they become hot from severe use. In these cases use
+wheel chocks.
+3. Secure pilot control stick by wrapping the seat belt around it
+4. Assure that flaps are retracted
+5. Electrically ground airplane, by connecting ground cable to the engine muffle
+6. Install control locks
+7. Install protective plugs
+8. Close and lock cabin doors.
+9. Secure tie-down cables to the nose gear leg (and to the wings (in correspond-
+ence of wing struts) and tail cone tie-down rings at approximately 45 degree
+with respect to the ground.
+Additional preparation for high winds includes tie-down ropes from the
+main landing gear employment.
+z z
+C
+C
+A
+D
+45°
+45°
+45°
+45°
+x y
+y
+45°
+C
+x
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+GROUND HANDLING
+Page 8 - 14
+6.4 JACKING
+The aircraft can be lifted up by hydraulic jacks in correspondence of the points
+shown by external placards.
+For the correct procedure please refer to the Maintenance Manual.
+6.5 ROAD TRANSPORT
+It is recommended to secure tightly all aircraft components onto the cart to avoid
+damage during transport. Minimum cart size is 9x4 meters. It is suggested to
+place wings under the aircraft’s bottom, secured by specific clamps. Secondary
+components like the stabilator shall be protected from accidental hits using plas-
+tic or other material. For correct rigging and de-rigging procedure, refer to the
+Maintenance Manual.
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+GROUND HANDLING
+Page 8 - 15
+7. CLEANING AND CARE
+Aircraft surface must be kept clean to ensure expected flight per-
+formance. Excessively dirty surfaces can affect normal flight con-
+ditions.
+CAUTION
+7.1 WINDOWS
+For windows cleaning, it is allowed the use of acrylic products employed for glass
+and Plexiglas surfaces cleaning.
+7.2 EXTERNAL SURFACES
+Aircraft surface is cleaned with soapy water; they are not allowed solvents or al-
+cohol based products. Died insects must be removed using hot water.
+It is advisable to avoid outside aircraft parking for long periods; it is always con-
+venient to keep the aircraft in the hangar.
+7.3 PROPELLER
+To preserve its functionality avoiding wear and corrosion, the propeller manufac-
+turer uses, for external surface painting, an acrylic paint which is resistant to all
+solvents. In any case it is advisable to clean the propeller using exclusively soapy
+water.
+7.4 ENGINE
+Engine cleaning is part of the scheduled maintenance. Refer to the engine manu-
+facturer Maintenance Manual for operating and for planning its cleaning.
+7.5 INTERNAL SURFACES
+Interiors must be cleaned with a rate of 3 to 6 months. Any object present in the
+cabin (like pens, lost property, maps etc) must be removed.
+The instrumentation as a whole must be cleaned with a humid cloth; plastic sur-
+faces can be cleaned with suitable products.
+For parts not easily accessible, perform cleaning with a small brush; seats must be
+cleaned with a humid cloth.
+2nd Edition, Rev. 0
+Section 8 – GROUND HANDLING & SERVICE
+CLEANING AND CARE
+Page 8 - 16
+8. ICE REMOVAL
+Anti icing products are not allowed. To remove ice, tow the aircraft in the hangar
+and operate with a soft brush or a humid cloth.
+2nd Edition, Rev. 0
+Section8 – Aircraft Care and Maintenance
+ICE REMOVAL
+Page 9-1
+SECTION 9 – AFM SUPPLEMENTS
+INDEX
+INDEX ......................................................................................................................... 1
+1. Introduction ........................................................................................................ 2
+2. Supplements list ................................................................................................. 3
+2nd Edition, Rev. 0
+Section 9 - AFM Supplements
+INDEX
+Page 9-2
+1. INTRODUCTION
+This Section concerns the supplemental manuals of additional (or optional) instrumen-
+tation equipping the P2010 and/or information and limitations related to installed
+equipment configuration or needed to fit local national rules.
+2nd Edition, Rev. 0
+Section 9 - AFM Supplements
+INTRODUCTION
+Page 9-3
+2. SUPPLEMENTS LIST
+Aircraft S/N Registration marks Date
+APPLICABLE
+Sup.
+N Title Rev.
+N Date
+YES NO
+D01 GARMIN GFC700 Autopilot 2
+D02 Variable Pitch Propeller 3
+D03 Alternative avionic configuration 2
+D04 Automotive Fuel 1
+D05 Argentine AFMS 0
+D06 Reserved / / /
+D07 GFC700 Autopilot for Variable Pitch Pro-
+peller equipped aeroplanes 0
+D08 Alternative avionics configuration for
+variable pitch propeller equipped airplanes 0
+D09 Reserved / / /
+D10 Lycoming IO-390 Engine and
+GARMIN G1000 NXi Avionic Suite 1
+D11 Brazil AFMS 0
+D12 Reserved / / /
+2nd Edition, Rev. 3
+Section 9 - AFM Supplements
+SUPPLEMENTS LIST
+Page 9-4
+INTENTIONALLY LEFT BLANK
+2nd Edition, Rev. 0
+Section 9 - AFM Supplements
+Page D01-1
+SUPPLEMENT NO. D01
+AFMS FOR GARMIN GFC700 AUTOPILOT INSTALLATION
+AND RNAV/RNP NAVIGATION ELIGIBILITY
+Record of Revisions
+Rev Revised
+page
+Description of
+Tecnam Approval EASA Approval or
+Under DOA
+Revision
+DO OoA HDO
+Privileges
+0 - First Issue D. Ronca C. Caruso M. Oliva
+1 2A-15, 17 thru
+20
+Amended to add the wording
+―Approved‖ in order to better
+identify the pages approved ac-
+cording to EASA regulation
+D. Ronca C. Caruso M. Oliva
+Approved under the au-
+thority of DOA ref.
+EASA.21J.335
+(Approval No.
+MOD2010/070.160118)
+2 6A-11 thru 12 Pages removed D. Ronca C. Caruso M. Oliva
+Approved under the au-
+thority of DOA ref.
+EASA.21J.335
+(Approval No.
+MOD2010/103.161026)
+List of Effective Pages
+Page Revision
+Cover Pages D01-1 thru 23 Rev. 0
+Section 1 1A-13, 1A-16 thru 31 Rev. 0
+Section 2 2A-15, 2A-17 thru 20 Rev. 1
+Section 3 3A-31 thru 35 Rev. 0
+Section 4 4A-27 thru 38 Rev. 0
+Section 7 7A-8 thru 9, 7A-20 thru 21, 7A-27, 7A-33 Rev. 0
+Ed. 1, Rev. 1
+Section 9 – Supplements -
+Supplement no. D01 – GARMIN GFC700 AUTOPILOT INSTALLATION AND RNAV/RNP
+NAVIGATION ELIGIBILITY
+Page D01-2
+INDEX
+INDEX ..................................................................................................... 2
+INTRODUCTION ..................................................................................... 3
+Section 1 – GENERAL ............................................................................ 5
+Section 2 – LIMITATIONS ...................................................................... 8
+Section 3 – EMERGENCY PROCEDURES ............................................. 11
+Section 4 – NORMAL PROCEDURES ................................................... 14
+Section 5 – PERFORMANCE ................................................................ 16
+Section 6 – WEIGHT AND BALANCE ................................................... 18
+Section 7 – AIRFRAME AND SYSTEMS DESCRIPTION ....................... 20
+Section 8 – GROUND HANDLING & SERVICE ..................................... 22
+Ed. 1, Rev. 0
+Section 9 – Supplements -
+Supplement no. D01 – GARMIN GFC700 AUTOPILOT INSTALLATION AND RNAV/RNP
+NAVIGATION ELIGIBILITY
+Page D01-3
+INTRODUCTION
+This section contains supplemental information to operate, in a safe and efficient
+manner, the aircraft when equipped with Garmin GFC 700 autopilot device inter-
+facing Garmin G1000.
+It is the owner’s responsibility to replace the mentioned pages in accordance
+with the instructions herein addressed section by section.
+Ed. 1, Rev. 0
+Section 9 – Supplements -
+Supplement no. D01 – GARMIN GFC700 AUTOPILOT INSTALLATION AND RNAV/RNP
+NAVIGATION ELIGIBILITY
+Page D01-4
+INTENTIONALLY LEFT BLANK
+Ed. 1, Rev. 0
+Section 9 – Supplements -
+Supplement no. D01 – GARMIN GFC700 AUTOPILOT INSTALLATION AND RNAV/RNP
+NAVIGATION ELIGIBILITY
+Page D01-5
+Supplement D01: pages replacement instructions
+SECTION 1 – GENERAL
+Make sure you first applied instructions reported on the basic AFM,
+Section 1 General
+According to A/C configuration apply following pages replacement:
+Supplement D01
+GENERAL
+page
+AFM
+Section 1
+page
+1A-13 REPLACES 1-13 of basic AFM, Section 1
+1A-16 thru 31 REPLACES 1-16 of basic AFM, Section 1
+Ed. 1, Rev. 0
+Section 9 – Supplements -
+Supplement no. D01 – GARMIN GFC700 AUTOPILOT INSTALLATION AND RNAV/RNP
+NAVIGATION ELIGIBILITY
+Page D01-6
+INTENTIONALLY LEFT BLANK
+Ed. 1, Rev. 0
+Section 9 – Supplements -
+Supplement no. D01 – GARMIN GFC700 AUTOPILOT INSTALLATION AND RNAV/RNP
+NAVIGATION ELIGIBILITY
+AFMS N°D01 FOR GARMIN GFC700 AUTOPILOT INSTALLATION AND
+RNAV/RNP NAVIGATION ELIGIBILITY Page 1A-13
+Autopilot acronyms
+AC Advisory Circular GNSS Global Navigation Satellite System
+A/C Aircraft GP Glide Path
+ADC Air Data Computer GPS Global Position System
+ADF Automatic Direction Finder GS Glide Slope
+ADI Attitude Directional Indicator GSA Garmin Servo Actuator
+AFCS Automatic Flight Control Systyem GSM Garmin Servo Mount
+AHRS Attitude Heading Reference System HDG Heading
+ALT Altitude HSDB High Speed Data Bus
+ALTS Altitude Selector IAU Integrated Avionic Unit
+AMPS Ampere LOC Localizer
+A/P Autopilot LRU Line Repleaceable Unit
+APR Approach LVL Level
+ARP Aerospace Recommended Practice MAG Magnetometer
+ASI Air Speed Indicator MET Manual Electric Trim
+BC Back Course MFD Multi-Function Display
+CAS Caution Advisory System NAV Navigation
+CDI Course Deviation Indicator OAT Outside Air Temperature
+CS Certification Specifications PFD Primary Flight Display
+CWS Control Wheel steering PFI Primary Flight Information
+DC Direct Current PFT Pre Flight Test
+DME Distance Measuring Equipment PWM Pulse Width Modulation
+EIS Engine Indication System SAE SAE International
+ESP Electronic Stability and Protection TDM Time Division Multiplexing
+FD Flight Director USP Under Speed Protection
+FLC Flight Level Change VHF Very-High Frequency
+GA Go Around VNV Vertical Navigation
+GDU Garmin Display Unit VS Vertical Speed
+GIA Garmin Integrated Avionics XPDR Transponder
+Ed. 1, Rev. 0
+Section 1 – General
+ACRONYMS AND TERMINOLOGY
+AFMS N°D01 FOR GARMIN GFC700 AUTOPILOT INSTALLATION AND
+RNAV/RNP NAVIGATION ELIGIBILITY Page 1A-16
+12
+AUTOPILOT DESCRIPTION
+P2010 aircraft is equipped, as an optional equipment, with an integrated 2-axis au-
+topilot suite manufactured by Garmin and identified as GFC 700. This autopilot
+suite was designed as an option for the G1000 integrated flight deck. The autopi-
+lot is controlled via dedicated keys grouped in a control panel located on the
+MFD. The installed MFD display is different with respect to standard P2010 con-
+figuration since it is GDU 1044.
+The autopilot suite installed on P2010 is based on the following configuration:
+ 1 Roll servo
+ 1 Pitch servo
+ 1 Pitch Trim servo
+Neither yaw axis nor rudder trim tab control is provided.
+The autopilot is connected to electric system through the below listed circuit
+breakers connected to the avionics bus:
+1) A/P (5A)
+2) PITCH TRIM (3A)
+The installed servos are capstan type and are composed of two main components:
+ A servo motor
+ A servo capstan including the servo clutch
+The following block diagram describes the avionic system installed on P2010 and
+its interconnections with the autopilot servos:
+Ed. 1, Rev. 0
+Section 1 – General
+AUTOPILOT DESCRIPTION
+MASTER
+CONFIG.
+MODULE
+AFMS N°D01 FOR GARMIN GFC700 AUTOPILOT INSTALLATION AND
+RNAV/RNP NAVIGATION ELIGIBILITY Page 1A-17
+HSDB
+REVERSIONARY SWITCH
+REVERSIONARY SWITCH
+AUDIO
+PFD MFD
+PANEL
+CONFIG.
+MODULE
+OAT
+ARINC 429 ARINC 429
+ADC
+ARINC 429
+ARINC 429 ARINC 429
+AHRS
+CONFIG.
+MODULE
+RS-485
+RS-232
+RS-232
+RS-232
+MAG.
+IAU 1 IAU 2
+RS-232
+ARINC 429
+ARINC 429
+RS-232
+ARINC 429 RS-232
+ARINC 429
+RS-485 RS-485
+EIS
+CONFIG.
+MODULE
+MD-302
+STAND-BY
+INSTR.
+HSDB
+HSDB
+STATIC PRESSURE
+TOTAL PRESSURE
+STATIC
+PRESSURE
+PORT
+TOTAL
+PRESSURE
+PORT
+DME
+ADF
+RS-232
+RS-232
+XPDR
+RS-485
+ROLL
+SERVO
+PITCH
+SERVO
+PITCH
+TRIM
+SERVO
+RS-485
+The multifunction display (MFD) provides the pilot with a dedicated set of keys for autopilot
+control (see red frame in the below picture).
+The roll servo is located under the pilot seat and is fixed to a/c structure using a
+dedicated mount. Pitch and pitch trim servos are located in the tail cone and are
+installed on a dedicated mount which hosts both the servos.
+Ed. 1, Rev. 0
+Section 1 – General
+AUTOPILOT DESCRIPTION
+AFMS N°D01 FOR GARMIN GFC700 AUTOPILOT INSTALLATION AND
+RNAV/RNP NAVIGATION ELIGIBILITY Page 1A-18
+GFC 700 is an integrated autopilot since it uses several information provided by
+other units embodied in the G1000 avionics suite in order to compute the maneu-
+vers to be performed by the aeroplane and actuate them. The below table lists the
+functions which are required in order to have the GFC 700 operational and the
+G1000 LRUs responsible for providing it:
+LRU
+PFD/MFD
+ADC
+AHRS
+MAG.
+IAU1/2
+ACTUA-
+CAP-
+Function
+(GDU 104X)
+(GDC
+(GRS
+(GMU
+(GIA
+TOR
+STAN
+74X)
+77)
+44)
+63W)
+(GSA 8X)
+(GSM 8X)
+AFCS mode select
+buttons 
+Display of the AFCS mode annuncia-
+tions and flight director command
+bars.
+
+(PFD NORMAL)
+(MFD REVER-
+SIONARY)
+Attitude/Heading information  
+Air data information 
+Navigational database Parameters 
+GPS/WAAS, VOR, and ILS naviga-
+tional data 
+Mode logic, flight director computa-
+tions, and servo management
+
+Autopilot computations and monitor-
+ing 
+Aircraft control
+surface Actuation 
+Trim functionality 
+In control of the roll axis, the autopilot senses turn rate, as well as closure rate to
+the selected course, along with the non-rate quantities of heading error, course er-
+ror and course deviation indication.
+In control of the pitch axis, the autopilot senses vertical speed, acceleration, and
+closure rate to the selected glideslope, along with the non-rate quantities of alti-
+tude and glideslope deviation indication.
+The ―autotrim‖ function senses when the aircraft needs to be trimmed about the
+pitch axis, and responds by driving the trim servo in the proper direction to pro-
+vide trim.
+Ed. 1, Rev. 0
+Section 1 – General
+AUTOPILOT DESCRIPTION
+AFMS N°D01 FOR GARMIN GFC700 AUTOPILOT INSTALLATION AND
+RNAV/RNP NAVIGATION ELIGIBILITY Page 1A-19
+12.1 GDU 1044 (MFD)
+GDU 1044 MFD unit can display as default engine parameters and moving map
+information, along with other information that can be selected by the pilot (see the
+first figure below); when reversionary mode is active it will display flight parame-
+ters (in the form of PFD with the left strip engine information, as can be seen in
+the second figure below). It is the user interface for P2010 avionics suite. GDU
+1044 unit replaces the GDU 1040 unit on instrument panel RH side (MFD).
+GDU 1044 (MFD)
+Reversionary mode:
+- In the event of a single display failure the system is able to automatically
+switch the critical information including flight and engine parameters on the
+remaining display presenting them in a compact view. In the event of a failure
+of the automatic switch logic, the pilot can easily force the reversionary mode
+by pressing the red button on the bottom of the audio panel thus getting both
+flight and engine parameters information, necessary for continued safe flight,
+on the remaining display.
+GDU 1044 (MFD) in reversionary mode
+Ed. 1, Rev. 0
+Section 1 – General
+AUTOPILOT DESCRIPTION
