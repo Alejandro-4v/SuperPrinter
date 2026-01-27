@@ -1,4 +1,6 @@
-package org.superprinter;
+package org.superprinter.office;
+
+import org.superprinter.utils.DocumentType;
 
 public record Document (
         String title,
