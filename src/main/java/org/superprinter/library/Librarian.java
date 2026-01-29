@@ -9,21 +9,20 @@ import java.util.Random;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import jdk.management.jfr.FlightRecorderMXBean;
-import org.superprinter.utils.Finals;
+import org.superprinter.utils.Directory;
 
 public class Librarian {
 
     private List<String> books;
-    private Random rnd = new Random();
+    private final Random RND = new Random();
     
     private String name;
     private String workplace;
 
     public static void main(String[] args) {
-        Librarian l = new Librarian("Jarol", Finals.LIBRARY_BOOKS_PATH);
+        Librarian l = new Librarian("Jarol", Directory.LIBRARY_BOOKS_PATH);
 
-        System.out.println(l.getRandomBook());
+        System.out.println(l.askForRandomBook());
     }
 
     public Librarian(String name, String workplace) {
@@ -34,7 +33,7 @@ public class Librarian {
         filterBooksOnLibrary();
     }
     
-    public String getRandomBook() {
+    public String askForRandomBook() {
         if (books == null || books.isEmpty()) {
             return null;
         }
@@ -50,7 +49,7 @@ public class Librarian {
     private String selectRandomBook() {
 
         int librarySize = books.size();
-        int randomIndex = this.rnd.nextInt(librarySize);
+        int randomIndex = this.RND.nextInt(librarySize);
         
         return books.get(randomIndex);
 
