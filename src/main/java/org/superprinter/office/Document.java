@@ -4,7 +4,7 @@ import org.superprinter.utils.DocumentType;
 
 public record Document (
         String title,
-        String document,
+        String content,
         DocumentType type,
         String sender
 ) {}
