@@ -76,7 +76,7 @@ public class Librarian {
                 books = new ArrayList<String>();
             } else {
                 books = unfilteredBooks;
-                books.remove("Library.java");
+                books.remove("Librarian.java");
             }
         } catch (IOException e) {
             books = new ArrayList<String>();
