@@ -9,7 +9,7 @@ import java.util.List;
 
 public class SuperTransformer {
 
-    public static List<Page> transformDocument(Document documentToTransform) {
+    public static List<Page> transformDocumentIntoPages(Document documentToTransform) {
         String documentContent = documentToTransform.content();
 
         int totalDocumentCharacters = documentContent.length();
