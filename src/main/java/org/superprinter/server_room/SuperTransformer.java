@@ -1,5 +1,7 @@
 package org.superprinter.server_room;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.superprinter.office.Document;
 import org.superprinter.stationers_room.Page;
 import org.superprinter.utils.Finals;
@@ -43,6 +45,26 @@ public class SuperTransformer {
         }
 
         return transformedDocument;
+    }
+
+    public static String transformDocumentIntoJson(Document documentToTransform) {
+        ObjectMapper mapper = new ObjectMapper();
+
+        try {
+            return mapper.writeValueAsString(documentToTransform);
+        } catch (JsonProcessingException e) {
+            return null;
+        }
+    }
+
+    public static Document transformJsonStringIntoDocument(String jsonString) {
+        ObjectMapper mapper = new ObjectMapper();
+
+        try {
+            return mapper.readValue(jsonString, Document.class);
+        } catch (Exception e) {
+            return null;
+        }
     }
 
 }
