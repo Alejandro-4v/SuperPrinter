@@ -1,8 +1,11 @@
 package org.superprinter.office;
 
 import org.superprinter.library.Librarian;
+import org.superprinter.server_room.KafkaProducerUtility;
 import org.superprinter.server_room.Server;
+import org.superprinter.stationers_room.Printer;
 import org.superprinter.utils.Directory;
+import org.superprinter.utils.DocumentType;
 import org.superprinter.utils.Finals;
 
 import java.util.ArrayList;
@@ -16,14 +19,43 @@ public class Office {
 
     public static void main(String[] args) {
 
-        welcomeLibrarian();
+        openThenLibrary();
 
-        startMainServer();
+        startTheMainServerAndKafka();
+
+        setupThePrinters();
 
         welcomeEmployees();
 
-        getEmployeesToWork();
+        startTheWorkingDay();
 
+    }
+
+    private static void openThenLibrary() {
+        System.out.println("[OFFICE] Opening the library and welcoming our librarian...");
+        OFFICE_LIBRARIAN = new Librarian("Teresa", Directory.LIBRARY_BOOKS_PATH);
+    }
+
+    private static void startTheMainServerAndKafka() {
+        System.out.println("[OFFICE] Warming up the main server and Kafka producer...");
+        MAIN_SERVER = new Server();
+        KafkaProducerUtility.initialize();
+    }
+
+    private static void setupThePrinters() {
+        System.out.println("[OFFICE] Calibrating the printers (" + Finals.BLACK_AND_WHITE_PRINTERS_COUNT + " B/W, "
+                + Finals.COLOR_PRINTERS_COUNT + " Color)...");
+        for (int i = 0; i < Finals.BLACK_AND_WHITE_PRINTERS_COUNT; i++) {
+            startPrinter(DocumentType.BLACK);
+        }
+        for (int i = 0; i < Finals.COLOR_PRINTERS_COUNT; i++) {
+            startPrinter(DocumentType.COLOR);
+        }
+    }
+
+    private static void startPrinter(DocumentType type) {
+        Printer printer = new Printer(type);
+        new Thread(printer).start();
     }
 
     private static void welcomeEmployees() {
