@@ -19,12 +19,6 @@ public class Librarian {
     private String name;
     private String workplace;
 
-    public static void main(String[] args) {
-        Librarian l = new Librarian("Jarol", Directory.LIBRARY_BOOKS_PATH);
-
-        System.out.println(l.askForRandomBook());
-    }
-
     public Librarian(String name, String workplace) {
         Random rnd = new Random();
 
