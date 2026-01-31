@@ -45,5 +45,27 @@ public class Employee implements Runnable {
 
     };
 
+    public Document createNewDocument() {
+        String newDocumentFilename = getNextDocumentFilename();
+        String documentContent = LIBRARIAN.askForRandomBook();
+        DocumentType documentType = chooseRandomColorToPrint();
+        Document newDocument = new Document(newDocumentFilename, documentContent, documentType, this.name);
+        return newDocument;
+    }
+
+    private String getNextDocumentFilename() {
+        int newDocumentIndex = WRITTEN_DOCUMENTS.incrementAndGet();
+        return "document_" + this.name + "_" + newDocumentIndex + ".pdf";
+    }
+
+    protected static DocumentType chooseRandomColorToPrint() {
+        int chosenColor = RND.nextInt();
+
+        if (chosenColor % 2 == 0) {
+            return DocumentType.BLACK;
+        } else {
+            return DocumentType.COLOR;
+        }
+    }
 
 }
