@@ -1,5 +1,7 @@
 package org.superprinter.utils;
 
+import java.time.Duration;
+
 public class Finals {
 
     public static final int PAGE_SIZE = 400;
@@ -16,5 +18,7 @@ public class Finals {
     public static final String COLOR_PRINTS_PATH = Directory.STATIONERS_PRINTS_PATH + TOPIC_COLOR + "/";
 
     public static final int EMPLOYEE_SLEEP_TIME_MS = 10000;
+
+    public static final int PRINTER_SLEEP_TIME_MS = 2000;
 
 }

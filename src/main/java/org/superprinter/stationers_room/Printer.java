@@ -69,8 +69,17 @@ public class Printer implements Runnable {
     }
 
     private void printPage(String message) {
+        takeTimeInPrinting();
         File folder = prepareStorage();
         savePageToFile(folder, message);
+    }
+
+    private void takeTimeInPrinting() {
+        try {
+            Thread.sleep(Finals.PRINTER_SLEEP_TIME_MS);
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+        }
     }
 
     private File prepareStorage() {
