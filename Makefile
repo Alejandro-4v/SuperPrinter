@@ -24,8 +24,10 @@ start:
 stop:
 	docker exec -it kafka ./kafka-server-stop.sh
 
-topic:
-	docker exec kafka bash -c './kafka-topics.sh --create --topic $$TOPIC_NAME --bootstrap-server $$BOOTSTRAP_SERVER --partitions $$PARTITIONS'
+init:
+	docker exec kafka chmod +x /opt/kafka/bin/scripts/initializeServer.sh
+	docker exec kafka bash -c './scripts/initializeServer.sh'
 
-describe:
-	docker exec kafka bash -c './kafka-topics.sh --describe --topic $$TOPIC_NAME --bootstrap-server $$BOOTSTRAP_SERVER'
+check:
+	docker exec kafka chmod +x /opt/kafka/bin/scripts/checkServer.sh
+	docker exec kafka bash -c './scripts/checkServer.sh'

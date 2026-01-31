@@ -6,8 +6,8 @@ services:
     ports:
       - "9092:9092"
     working_dir: /opt/kafka/bin
-    command: ["tail", "-f", "/dev/null"]
+    command: [ "tail", "-f", "/dev/null" ]
     environment:
-      TOPIC_NAME: printers-queue
-      PARTITIONS: 2
       BOOTSTRAP_SERVER: localhost:9092
+    volumes:
+      - ./docker/kafka/scripts:/opt/kafka/bin/scripts
