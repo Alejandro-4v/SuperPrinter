@@ -31,3 +31,7 @@ init:
 check:
 	docker exec kafka chmod +x /opt/kafka/bin/scripts/checkServer.sh
 	docker exec kafka bash -c './scripts/checkServer.sh'
+
+clean-topics:
+	docker exec kafka chmod +x /opt/kafka/bin/scripts/cleanTopics.sh
+	docker exec kafka bash -c './scripts/cleanTopics.sh'
