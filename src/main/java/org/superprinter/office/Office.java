@@ -10,7 +10,6 @@ import java.util.List;
 
 public class Office {
 
-
     private static final List<Thread> EMPLOYEES = new ArrayList<>();
     private static Server MAIN_SERVER;
     private static Librarian OFFICE_LIBRARIAN;
@@ -28,6 +27,7 @@ public class Office {
     }
 
     private static void welcomeEmployees() {
+        System.out.println("[OFFICE] Welcoming " + Finals.EMPLOYEES_COUNT + " employees to their desks...");
         for (int i = 0; i < Finals.EMPLOYEES_COUNT; i++) {
             Employee newEmployee = new Employee("employee_" + i, MAIN_SERVER, OFFICE_LIBRARIAN);
             Thread newEmployeeThread = new Thread(newEmployee);
@@ -35,18 +35,11 @@ public class Office {
         }
     }
 
-    private static void getEmployeesToWork() {
+    private static void startTheWorkingDay() {
+        System.out.println("[OFFICE] The working day has officially started!");
         for (Thread employee : EMPLOYEES) {
             employee.start();
         }
-    }
-
-    private static void startMainServer() {
-        MAIN_SERVER = new Server();
-    }
-
-    private static void welcomeLibrarian() {
-        OFFICE_LIBRARIAN = new Librarian("Teresa", Directory.LIBRARY_BOOKS_PATH);
     }
 
 }
