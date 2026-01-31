@@ -7,11 +7,9 @@ import org.superprinter.utils.Finals;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 public class Office {
 
-    private static final Random RND = new Random();
 
     private static final List<Thread> EMPLOYEES = new ArrayList<>();
     private static Server MAIN_SERVER;
