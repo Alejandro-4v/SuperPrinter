@@ -15,4 +15,6 @@ public class Finals {
     public static final String BLACK_PRINTS_PATH = Directory.STATIONERS_PRINTS_PATH + TOPIC_BLACK + "/";
     public static final String COLOR_PRINTS_PATH = Directory.STATIONERS_PRINTS_PATH + TOPIC_COLOR + "/";
 
+    public static final int EMPLOYEE_SLEEP_TIME_MS = 10000;
+
 }
