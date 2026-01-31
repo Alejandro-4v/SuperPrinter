@@ -5,6 +5,7 @@ import org.superprinter.server_room.Server;
 import org.superprinter.utils.Directory;
 import org.superprinter.utils.Finals;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
@@ -12,7 +13,7 @@ public class Office {
 
     private static final Random RND = new Random();
 
-    private static List<Thread> EMPLOYEES;
+    private static final List<Thread> EMPLOYEES = new ArrayList<>();
     private static Server MAIN_SERVER;
     private static Librarian OFFICE_LIBRARIAN;
 
